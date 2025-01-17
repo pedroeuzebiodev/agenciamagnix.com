@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "miguelsolorio.fluent-icons",
+    "rocketseat.theme-omni",
+    "ms-ceintl.vscode-language-pack-pt-br",
+    "miguelsolorio.symbols",
+    "streetsidesoftware.code-spell-checker-portuguese-brazilian",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "eamodio.gitlens",
+    "ritwickdey.liveserver",
+    "bierner.markdown-checkbox",
+    "bierner.markdown-emoji",
+    "shd101wyy.markdown-preview-enhanced",
+    "davidanson.vscode-markdownlint",
+    "esbenp.prettier-vscode"
+  ]
+}
