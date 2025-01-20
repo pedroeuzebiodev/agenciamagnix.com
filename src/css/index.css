@@ -27,3 +27,7 @@ body * {
 
   background: var(--background);
 }
+
+#app header img {
+  width: 12.8rem;
+}
