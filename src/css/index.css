@@ -17,6 +17,7 @@
     #0d0d0d 100%
   );
   --primary: linear-gradient(#f5aa35 0%, #e96233 100%);
+  --foreground: #ffffff;
 }
 
 body * {
@@ -69,5 +70,5 @@ body * {
 
   line-height: 3rem;
 
-  color: #ffffff;
+  color: var(--foreground);
 }
