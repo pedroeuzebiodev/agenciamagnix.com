@@ -16,6 +16,7 @@
     #3c277a 53%,
     #0d0d0d 100%
   );
+  --primary: linear-gradient(#f5aa35 0%, #e96233 100%);
 }
 
 body * {
@@ -53,7 +54,7 @@ body * {
 
   line-height: 4rem;
 
-  background-image: linear-gradient(#f5aa35 0%, #e96233 100%);
+  background-image: var(--primary);
   background-clip: text;
   -webkit-background-clip: text;
 
