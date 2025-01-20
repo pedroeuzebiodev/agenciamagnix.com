@@ -13,3 +13,15 @@
 body * {
   font-size: 1.6rem;
 }
+
+#app {
+  min-height: 100vh;
+
+  background-image: linear-gradient(
+    to left top,
+    #573aac 0%,
+    #4c3398 26%,
+    #3c277a 53%,
+    #0d0d0d 100%
+  );
+}
