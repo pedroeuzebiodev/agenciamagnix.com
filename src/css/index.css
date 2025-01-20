@@ -60,8 +60,6 @@ body * {
   -webkit-background-clip: text;
 
   color: transparent;
-
-  margin-bottom: 4.8rem;
 }
 
 #app #home-section h2 {
@@ -71,4 +69,22 @@ body * {
   line-height: 3rem;
 
   color: var(--foreground);
+
+  margin: 4.8rem 0;
+}
+
+#app #home-section button {
+  font-size: 2.4rem;
+  font-weight: 400;
+
+  line-height: 3rem;
+
+  color: var(--foreground);
+
+  background: var(--primary);
+
+  border: none;
+  border-radius: 9999px;
+
+  padding: 1.2rem 2.4rem;
 }
