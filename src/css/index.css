@@ -36,9 +36,26 @@ body * {
 }
 
 #app header {
-  padding: 8rem 0 0;
+  padding: 8rem 0 2.4rem;
 }
 
 #app header img {
   width: 12.8rem;
+}
+
+#app #home-section {
+  padding: 2.4rem 0;
+}
+
+#app #home-section h1 {
+  font-size: 3.6rem;
+  font-weight: 400;
+
+  line-height: 4rem;
+
+  background-image: linear-gradient(#f5aa35 0%, #e96233 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
 }
