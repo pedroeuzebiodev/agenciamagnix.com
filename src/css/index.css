@@ -28,6 +28,11 @@ body * {
   background: var(--background);
 }
 
+#app header {
+  padding-top: 9.6rem;
+  padding-left: 11.2rem;
+}
+
 #app header img {
   width: 12.8rem;
 }
