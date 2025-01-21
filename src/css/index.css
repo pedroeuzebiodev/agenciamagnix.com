@@ -135,6 +135,13 @@ body * {
   margin-bottom: 4.8rem;
 }
 
+#app #offers-section #offers {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4.8rem;
+}
+
 #app #offers-section #offers .offer {
   display: flex;
   flex-direction: column;
