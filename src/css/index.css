@@ -58,7 +58,8 @@ body * {
   width: 12.8rem;
 }
 
-#app #home-section {
+#app #home-section,
+#app #offers-section {
   padding: 2.4rem 0;
 }
 
@@ -72,7 +73,8 @@ body * {
   flex: 1;
 }
 
-#app #home-section h1 {
+#app #home-section h1,
+#app #offers-section h2 {
   font-size: 3.6rem;
   font-weight: 400;
 
@@ -124,4 +126,9 @@ body * {
   height: 3.6rem;
 
   background: var(--primary);
+}
+
+#app #offers-section h2 {
+  text-transform: uppercase;
+  text-align: center;
 }
