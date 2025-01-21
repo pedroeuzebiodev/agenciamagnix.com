@@ -137,7 +137,8 @@ body * {
 
 #app #offers-section #offers {
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
   align-items: center;
   gap: 4.8rem;
 }
@@ -147,6 +148,10 @@ body * {
   flex-direction: column;
   gap: 4.8rem;
   align-items: center;
+  justify-content: center;
+
+  width: 100%;
+  max-width: 32rem;
 }
 
 #app #offers-section #offers .offer h3 {
@@ -171,6 +176,8 @@ body * {
   padding: 2.4rem 1.2rem;
 
   border-radius: 2.4rem;
+
+  height: 28.8rem;
 }
 
 #app #offers-section #offers .offer .wrapper-text-offer p {
