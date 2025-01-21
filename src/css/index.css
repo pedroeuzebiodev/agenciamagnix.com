@@ -36,6 +36,18 @@ body * {
   min-height: 100vh;
 
   background: var(--background);
+
+  position: relative;
+  z-index: 1;
+}
+
+#app #g-white {
+  position: absolute;
+  top: 2.4rem;
+
+  width: 100%;
+  max-width: 51.2rem;
+  z-index: -1;
 }
 
 #app header {
