@@ -131,4 +131,46 @@ body * {
 #app #offers-section h2 {
   text-transform: uppercase;
   text-align: center;
+
+  margin-bottom: 4.8rem;
+}
+
+#app #offers-section #offers .offer {
+  display: flex;
+  flex-direction: column;
+  gap: 4.8rem;
+  align-items: center;
+}
+
+#app #offers-section #offers .offer h3 {
+  font-size: 2rem;
+  font-weight: 400;
+
+  line-height: 2.4rem;
+
+  color: var(--foreground);
+
+  text-align: center;
+}
+
+#app #offers-section #offers .offer img {
+  width: 100%;
+  max-width: 16rem;
+}
+
+#app #offers-section #offers .offer .wrapper-text-offer {
+  background: var(--foreground);
+
+  padding: 2.4rem 1.2rem;
+
+  border-radius: 2.4rem;
+}
+
+#app #offers-section #offers .offer .wrapper-text-offer p {
+  font-size: 1.6rem;
+  font-weight: 400;
+
+  line-height: 1.8rem;
+
+  color: #0c0c0c;
 }
