@@ -199,18 +199,24 @@ body * {
   color: var(--foreground);
 }
 
+#app #target-audience-section #wrapper-target-audiences {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4.8rem;
+}
+
 #app #target-audience-section img {
   width: 100%;
   max-width: 57.6rem;
 }
 
 #app #target-audience-section #target-audiences {
-  margin-top: 4.8rem;
-
   display: flex;
   flex-direction: column;
   gap: 4.8rem;
   justify-content: center;
+
+  flex: 1;
 }
 
 #app #target-audience-section #target-audiences .target-audience {
