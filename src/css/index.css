@@ -60,7 +60,8 @@ body * {
 }
 
 #app #home-section,
-#app #offers-section {
+#app #offers-section,
+#app #target-audience-section {
   padding: 2.4rem 0;
 }
 
@@ -75,7 +76,9 @@ body * {
 }
 
 #app #home-section h1,
-#app #offers-section h2 {
+#app #offers-section h2,
+#app #target-audience-section h2,
+#app #target-audience-section h2 span {
   font-size: 3.6rem;
   font-weight: 400;
 
@@ -129,7 +132,8 @@ body * {
   background: var(--primary);
 }
 
-#app #offers-section h2 {
+#app #offers-section h2,
+#app #target-audience-section h2 {
   text-transform: uppercase;
   text-align: center;
 
@@ -188,4 +192,8 @@ body * {
   line-height: 1.8rem;
 
   color: var(--secondary);
+}
+
+#app #target-audience-section h2 {
+  color: var(--foreground);
 }
