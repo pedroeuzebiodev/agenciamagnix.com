@@ -43,8 +43,13 @@ body * {
 }
 
 #app #g-white {
-  position: absolute;
   top: 2.4rem;
+}
+
+#app #g-white,
+#app #offers-section #g-white-offers-section-1,
+#app #offers-section #g-white-offers-section-2 {
+  position: absolute;
 
   width: 100%;
   max-width: 51.2rem;
@@ -139,6 +144,20 @@ body * {
   text-align: center;
 
   margin-bottom: 4.8rem;
+}
+
+#app #offers-section {
+  position: relative;
+}
+
+#app #offers-section #g-white-offers-section-1 {
+  left: 0;
+  bottom: 0;
+}
+
+#app #offers-section #g-white-offers-section-2 {
+  right: 0;
+  top: 0;
 }
 
 #app #offers-section #offers {
