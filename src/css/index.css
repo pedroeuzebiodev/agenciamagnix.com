@@ -206,6 +206,11 @@ body * {
 
 #app #target-audience-section #target-audiences {
   margin-top: 4.8rem;
+
+  display: flex;
+  flex-direction: column;
+  gap: 4.8rem;
+  justify-content: center;
 }
 
 #app #target-audience-section #target-audiences .target-audience {
