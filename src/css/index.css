@@ -65,7 +65,8 @@ body * {
   padding: 2.4rem 0;
 }
 
-#app #home-section .max-width {
+#app #home-section .max-width,
+#app #target-audience-section #wrapper-target-audiences {
   display: flex;
   flex-wrap: wrap;
   gap: 4.8rem;
@@ -125,7 +126,7 @@ body * {
   max-width: 67.2rem;
 }
 
-#app .line {
+#app .line-section {
   width: 100%;
   height: 3.6rem;
 
@@ -197,12 +198,6 @@ body * {
 
 #app #target-audience-section h2 {
   color: var(--foreground);
-}
-
-#app #target-audience-section #wrapper-target-audiences {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 4.8rem;
 }
 
 #app #target-audience-section img {
