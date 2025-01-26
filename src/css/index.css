@@ -231,6 +231,16 @@ body * {
   color: var(--secondary);
 }
 
+#app #target-audience-section #ball-purple {
+  position: absolute;
+  z-index: -1;
+  left: 6.4rem;
+  top: 0;
+
+  width: 100%;
+  max-width: 16rem;
+}
+
 #app #target-audience-section #balls-purple {
   position: absolute;
   z-index: -1;
