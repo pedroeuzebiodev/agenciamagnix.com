@@ -160,7 +160,8 @@ body * {
   margin-bottom: 4.8rem;
 }
 
-#app #offers-section {
+#app #offers-section,
+#app #target-audience-section {
   position: relative;
 }
 
@@ -169,7 +170,8 @@ body * {
   bottom: 0;
 }
 
-#app #offers-section #g-white-offers-section-2 {
+#app #offers-section #g-white-offers-section-2,
+#app #target-audience-section #balls-purple {
   right: 0;
   top: 0;
 }
@@ -227,6 +229,14 @@ body * {
   line-height: 1.8rem;
 
   color: var(--secondary);
+}
+
+#app #target-audience-section #balls-purple {
+  position: absolute;
+  z-index: -1;
+
+  width: 100%;
+  max-width: 25.6rem;
 }
 
 #app #target-audience-section h2 {
