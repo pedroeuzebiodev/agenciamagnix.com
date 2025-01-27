@@ -18,6 +18,8 @@
   -webkit-background-clip: text;
 
   color: transparent;
+
+  animation: appear 2000ms ease-in-out forwards;
 }
 
 #home-section #wrapper-columns-home-section #column-1-home-section h2 {
@@ -28,6 +30,8 @@
   color: var(--foreground);
 
   margin: 4.8rem 0;
+
+  animation: appear 2250ms ease-in-out forwards;
 }
 
 #home-section #wrapper-columns-home-section #column-1-home-section button {
@@ -45,6 +49,8 @@
   padding: 1.2rem 2.4rem;
 
   cursor: pointer;
+
+  animation: appear 2500ms ease-in-out forwards;
 }
 
 #home-section #wrapper-columns-home-section #column-2-home-section img {

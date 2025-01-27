@@ -1,5 +1,7 @@
 header {
   padding: 8rem 0 2.4rem;
+
+  animation: appear 1750ms ease-in-out forwards;
 }
 
 header img {
