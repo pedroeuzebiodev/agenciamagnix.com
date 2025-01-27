@@ -77,8 +77,8 @@
   // Adiciona `none`, iniciar sem um editor
   "workbench.startupEditor": "none",
 
-  // Adiciona `Symbols` o tema do ícone de arquivo usado no workbench
-  "workbench.iconTheme": "symbols",
+  // Adiciona `Material Icon Theme` o tema do ícone de arquivo usado no workbench
+  "workbench.iconTheme": "material-icon-theme",
 
   // Adiciona `Fluent Icons` o tema do ícone do produto usado.
   "workbench.productIconTheme": "fluent-icons",
