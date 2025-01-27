@@ -58,3 +58,18 @@
   width: 100%;
   max-width: 57.6rem;
 }
+
+@media (max-width: 768px) {
+  #home-section #wrapper-columns-home-section #column-1-home-section h1 {
+    font-size: 3rem;
+
+    line-height: 3.6rem;
+  }
+
+  #home-section #wrapper-columns-home-section #column-1-home-section h2,
+  #home-section #wrapper-columns-home-section #column-1-home-section button {
+    font-size: 2rem;
+
+    line-height: 2.4rem;
+  }
+}
