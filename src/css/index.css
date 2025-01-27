@@ -35,6 +35,10 @@
   background: transparent;
 }
 
+body {
+  background: var(--background);
+}
+
 body * {
   font-size: 1.6rem;
   font-family: "Inter", serif;
@@ -49,8 +53,6 @@ body * {
 
 #app {
   min-height: 100vh;
-
-  background: var(--background);
 
   position: relative;
   z-index: 1;
