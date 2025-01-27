@@ -20,7 +20,7 @@
 
   color: transparent;
 
-  animation: appear 2000ms ease-in-out forwards;
+  animation: appear 2200ms;
 }
 
 #home-section #wrapper-columns-home-section #column-1-home-section h2 {
@@ -32,7 +32,7 @@
 
   margin: 4.8rem 0;
 
-  animation: appear 2250ms ease-in-out forwards;
+  animation: appear 2600ms;
 }
 
 #home-section #wrapper-columns-home-section #column-1-home-section button {
@@ -51,7 +51,7 @@
 
   cursor: pointer;
 
-  animation: appear 2500ms ease-in-out forwards;
+  animation: appear 3000ms;
 }
 
 #home-section #wrapper-columns-home-section #column-2-home-section img {
