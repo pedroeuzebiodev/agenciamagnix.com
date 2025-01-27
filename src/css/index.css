@@ -82,7 +82,8 @@ body * {
 
 #app #home-section,
 #app #offers-section,
-#app #target-audience-section {
+#app #target-audience-section,
+#app #comparison-section {
   padding: 2.4rem 0;
 }
 
