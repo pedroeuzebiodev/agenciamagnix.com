@@ -1,0 +1,14 @@
+body {
+  background: var(--background);
+}
+
+.max-width {
+  width: 100%;
+  max-width: 128rem;
+  margin: 0 auto;
+  padding: 0 3rem;
+}
+
+section {
+  padding: 2.4rem 0;
+}
