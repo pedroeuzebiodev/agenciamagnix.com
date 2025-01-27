@@ -1,3 +1,26 @@
+#comparison-section {
+  position: relative;
+}
+
+#comparison-section #green-checkbox,
+#comparison-section #red-checkbox {
+  position: absolute;
+  z-index: -1;
+
+  width: 100%;
+  max-width: 25.6rem;
+}
+
+#comparison-section #green-checkbox {
+  left: 0;
+  top: 24%;
+}
+
+#comparison-section #red-checkbox {
+  right: 0;
+  top: 64%;
+}
+
 #comparison-section h2,
 #comparison-section h2 span {
   font-size: 3.6rem;
@@ -145,6 +168,11 @@
 }
 
 @media (min-width: 76.8rem) {
+  #comparison-section #green-checkbox,
+  #comparison-section #red-checkbox {
+    top: 25.6rem;
+  }
+
   #comparison-section
     #wrapper-comparison
     #magnix
