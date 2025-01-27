@@ -1,0 +1,14 @@
+:root {
+  font-size: 62.5%;
+
+  --background: linear-gradient(
+    to left top,
+    #573aac 0%,
+    #4c3398 26%,
+    #3c277a 53%,
+    #0d0d0d 100%
+  );
+  --foreground: #ffffff;
+  --primary: linear-gradient(to right, #f5aa35 0%, #e96233 100%);
+  --secondary: #0c0c0c;
+}
