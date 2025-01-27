@@ -11,4 +11,5 @@
   --foreground: #ffffff;
   --primary: linear-gradient(to right, #f5aa35 0%, #e96233 100%);
   --secondary: #0c0c0c;
+  --accent: rgba(12, 12, 12, 0.6);
 }
