@@ -1,0 +1,89 @@
+#offers-section {
+  position: relative;
+}
+
+#offers-section #g-white-1-offers-section,
+#offers-section #g-white-2-offers-section {
+  position: absolute;
+
+  width: 100%;
+  max-width: 51.2rem;
+  z-index: -1;
+}
+
+#offers-section #g-white-1-offers-section {
+  left: 0;
+  bottom: 0;
+}
+
+#offers-section #g-white-2-offers-section {
+  right: 0;
+  top: 0;
+}
+
+#offers-section h2 {
+  font-size: 3.6rem;
+
+  line-height: 4rem;
+
+  background-image: var(--primary);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+
+  text-transform: uppercase;
+  text-align: center;
+
+  margin-bottom: 4.8rem;
+}
+
+#offers-section #offers {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 4.8rem;
+}
+
+#offers-section #offers .offer {
+  display: flex;
+  flex-direction: column;
+  gap: 4.8rem;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+  max-width: 32rem;
+}
+
+#offers-section #offers .offer h3 {
+  font-size: 2rem;
+
+  line-height: 2.4rem;
+
+  color: var(--foreground);
+
+  text-align: center;
+}
+
+#offers-section #offers .offer img {
+  width: 100%;
+  max-width: 16rem;
+}
+
+#offers-section #offers .offer .wrapper-text-offer {
+  background: var(--foreground);
+
+  padding: 2.4rem 1.2rem;
+
+  border-radius: 2.4rem;
+
+  height: 28.8rem;
+}
+
+#offers-section #offers .offer .wrapper-text-offer p {
+  line-height: 1.8rem;
+
+  color: var(--secondary);
+}
