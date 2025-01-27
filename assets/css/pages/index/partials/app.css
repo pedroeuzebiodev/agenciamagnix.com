@@ -1,0 +1,15 @@
+#app {
+  min-height: 100vh;
+
+  position: relative;
+  z-index: 1;
+}
+
+#app #g-white {
+  position: absolute;
+  top: 2.4rem;
+  z-index: -1;
+
+  width: 100%;
+  max-width: 51.2rem;
+}
