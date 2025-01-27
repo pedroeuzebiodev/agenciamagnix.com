@@ -23,7 +23,14 @@
   color: transparent;
 }
 
-#comparison-section #wrapper-comparison #magnix {
+#comparison-section #wrapper-comparison {
+  display: flex;
+  flex-direction: column;
+  gap: 4.8rem;
+}
+
+#comparison-section #wrapper-comparison #magnix,
+#comparison-section #wrapper-comparison #other-agencies {
   background: var(--accent);
 
   padding: 2.4rem 1.2rem;
@@ -31,7 +38,8 @@
   border-radius: 0.8rem;
 }
 
-#comparison-section #wrapper-comparison #magnix h3 {
+#comparison-section #wrapper-comparison #magnix h3,
+#comparison-section #wrapper-comparison #other-agencies h3 {
   font-size: 2.4rem;
 
   line-height: 3rem;
@@ -47,7 +55,11 @@
   margin-bottom: 2.4rem;
 }
 
-#comparison-section #wrapper-comparison #magnix #wrapper-content-magnix {
+#comparison-section #wrapper-comparison #magnix #wrapper-content-magnix,
+#comparison-section
+  #wrapper-comparison
+  #other-agencies
+  #wrapper-content-other-agencies {
   display: flex;
   flex-direction: column;
   gap: 4.8rem;
@@ -57,7 +69,12 @@
   #wrapper-comparison
   #magnix
   #wrapper-content-magnix
-  .content-magnix {
+  .content-magnix,
+#comparison-section
+  #wrapper-comparison
+  #other-agencies
+  #wrapper-content-other-agencies
+  .content-other-agencies {
   display: flex;
   flex-direction: column;
   gap: 0.8rem;
@@ -68,6 +85,12 @@
   #magnix
   #wrapper-content-magnix
   .content-magnix
+  h4,
+#comparison-section
+  #wrapper-comparison
+  #other-agencies
+  #wrapper-content-other-agencies
+  .content-other-agencies
   h4 {
   font-size: 2rem;
 
@@ -85,7 +108,13 @@
   #magnix
   #wrapper-content-magnix
   .content-magnix
-  .wrapper-content-magnix-subsection-separation-line {
+  .wrapper-content-magnix-subsection-separation-line,
+#comparison-section
+  #wrapper-comparison
+  #other-agencies
+  #wrapper-content-other-agencies
+  .content-other-agencies
+  .content-other-agencies-subsection-separation-line {
   width: 100%;
   height: 0.2rem;
 
@@ -97,6 +126,12 @@
   #magnix
   #wrapper-content-magnix
   .content-magnix
+  p,
+#comparison-section
+  #wrapper-comparison
+  #other-agencies
+  #wrapper-content-other-agencies
+  .content-other-agencies
   p {
   color: var(--foreground);
 
