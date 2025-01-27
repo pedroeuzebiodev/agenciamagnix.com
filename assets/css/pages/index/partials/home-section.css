@@ -5,7 +5,8 @@
 }
 
 #home-section #wrapper-columns-home-section #column-1-home-section {
-  flex: 1;
+  width: 100%;
+  max-width: 57.6rem;
 }
 
 #home-section #wrapper-columns-home-section #column-1-home-section h1 {
@@ -55,5 +56,5 @@
 
 #home-section #wrapper-columns-home-section #column-2-home-section img {
   width: 100%;
-  max-width: 67.2rem;
+  max-width: 57.6rem;
 }
