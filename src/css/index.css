@@ -98,7 +98,9 @@ body * {
 #app #home-section h1,
 #app #offers-section h2,
 #app #target-audience-section h2,
-#app #target-audience-section h2 span {
+#app #target-audience-section h2 span,
+#app #comparison-section h2,
+#app #comparison-section span {
   font-size: 3.6rem;
   font-weight: 400;
 
@@ -153,7 +155,8 @@ body * {
 }
 
 #app #offers-section h2,
-#app #target-audience-section h2 {
+#app #target-audience-section h2,
+#app #comparison-section h2 {
   text-transform: uppercase;
   text-align: center;
 
@@ -249,7 +252,8 @@ body * {
   max-width: 25.6rem;
 }
 
-#app #target-audience-section h2 {
+#app #target-audience-section h2,
+#app #comparison-section h2 {
   color: var(--foreground);
 }
 
