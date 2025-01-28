@@ -117,3 +117,12 @@
 
   line-height: 2rem;
 }
+
+@media (max-width: 768px) {
+  #target-audience-section h2,
+  #target-audience-section h2 span {
+    font-size: 3rem;
+
+    line-height: 3.6rem;
+  }
+}
