@@ -1,7 +1,7 @@
 @import url(../../global/global.css);
 
-@import url(./partials/app.css);
 @import url(./partials/comparison-section.css);
+@import url(./partials/g-white.css);
 @import url(./partials/header.css);
 @import url(./partials/home-section.css);
 @import url(./partials/line-between-sections.css);
