@@ -87,3 +87,11 @@
 
   color: var(--secondary);
 }
+
+@media (max-width: 768px) {
+  #offers-section h2 {
+    font-size: 3rem;
+
+    line-height: 3.6rem;
+  }
+}
