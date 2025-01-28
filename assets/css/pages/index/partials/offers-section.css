@@ -94,4 +94,10 @@
 
     line-height: 3.6rem;
   }
+
+  #offers-section #offers .offer h3 {
+    font-size: 2rem;
+
+    line-height: 2.4rem;
+  }
 }
