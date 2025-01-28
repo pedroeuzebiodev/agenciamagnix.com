@@ -102,4 +102,10 @@
 
     line-height: 2.4rem;
   }
+
+  #offers-section #offers .offer .wrapper-text-offer p {
+    font-size: 1.6rem;
+
+    line-height: 1.8rem;
+  }
 }
