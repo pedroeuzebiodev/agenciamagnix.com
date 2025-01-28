@@ -67,7 +67,8 @@
   justify-content: center;
   gap: 4.8rem;
 
-  flex: 1;
+  width: 100%;
+  max-width: 57.6rem;
 }
 
 #target-audience-section
@@ -90,9 +91,9 @@
 
   color: transparent;
 
-  font-size: 2rem;
+  font-size: 2.4rem;
 
-  line-height: 2.4rem;
+  line-height: 3rem;
 }
 
 #target-audience-section
@@ -113,9 +114,9 @@
   p {
   color: var(--foreground);
 
-  font-size: 1.8rem;
+  font-size: 2rem;
 
-  line-height: 2rem;
+  line-height: 2.4rem;
 }
 
 @media (max-width: 768px) {
@@ -128,5 +129,27 @@
     font-size: 3rem;
 
     line-height: 3.6rem;
+  }
+
+  #target-audience-section
+    #wrapper-target-audiences
+    #target-audiences
+    .target-audience
+    h3 {
+    font-size: 2rem;
+
+    line-height: 2.4rem;
+  }
+
+  #target-audience-section
+    #wrapper-target-audiences
+    #target-audiences
+    .target-audience
+    p {
+    color: var(--foreground);
+
+    font-size: 1.8rem;
+
+    line-height: 2rem;
   }
 }
