@@ -2,7 +2,7 @@ header {
   padding: 8rem 0 2.4rem;
 }
 
-header img {
+header a img {
   width: 12.8rem;
 
   animation: appear 1800ms;
