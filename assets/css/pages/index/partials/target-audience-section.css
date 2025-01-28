@@ -3,25 +3,34 @@
 }
 
 #target-audience-section #ball-purple,
-#target-audience-section #balls-purple {
+#target-audience-section #balls-purple,
+#target-audience-section #g-white-target-audience-section {
   position: absolute;
   z-index: -1;
+  top: 0;
 
   width: 100%;
 }
 
+#target-audience-section #balls-purple,
+#target-audience-section #g-white-target-audience-section {
+  right: 0;
+}
+
 #target-audience-section #ball-purple {
   left: 6.4rem;
-  top: 0;
 
   max-width: 16rem;
 }
 
 #target-audience-section #balls-purple {
-  right: 0;
-  top: 0;
-
   max-width: 22.4rem;
+}
+
+#target-audience-section #g-white-target-audience-section {
+  max-width: 51.2rem;
+  height: 100%;
+  object-fit: cover;
 }
 
 #target-audience-section h2,
@@ -102,7 +111,7 @@
   .target-audience
   .target-audience-subsection-separation-line {
   width: 0.2rem;
-  height: 2.4rem;
+  height: 100%;
 
   background: var(--primary);
 }
@@ -114,14 +123,20 @@
   p {
   color: var(--foreground);
 
-  font-size: 2rem;
+  font-size: 1.8rem;
 
-  line-height: 2.4rem;
+  line-height: 2rem;
 }
 
 @media (max-width: 768px) {
   #target-audience-section #ball-purple {
+    max-width: 8rem;
+
     left: 0;
+  }
+
+  #target-audience-section #balls-purple {
+    max-width: 16rem;
   }
 
   #target-audience-section h2,
@@ -148,8 +163,8 @@
     p {
     color: var(--foreground);
 
-    font-size: 1.8rem;
+    font-size: 1.6rem;
 
-    line-height: 2rem;
+    line-height: 1.8rem;
   }
 }
