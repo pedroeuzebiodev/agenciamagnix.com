@@ -83,7 +83,9 @@
 }
 
 #offers-section #offers .offer .wrapper-text-offer p {
-  line-height: 1.8rem;
+  font-size: 1.8rem;
+
+  line-height: 2rem;
 
   color: var(--secondary);
 }
