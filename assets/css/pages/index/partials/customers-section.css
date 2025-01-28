@@ -1,0 +1,43 @@
+#customers-section h2 {
+  font-size: 3.6rem;
+
+  line-height: 4rem;
+
+  background-image: var(--primary);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+
+  text-transform: uppercase;
+  text-align: center;
+
+  margin-bottom: 4.8rem;
+}
+
+#customers-section #customers {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4.8rem;
+  justify-content: center;
+  align-items: center;
+}
+
+#customers-section #customers .customer {
+  width: 100%;
+  max-width: 12.8rem;
+}
+
+#customers-section #customers #customer-40-eduardo-coelho-logo {
+  height: 9.6rem;
+
+  object-fit: contain;
+}
+
+@media (max-width: 768px) {
+  #customers-section h2 {
+    font-size: 3rem;
+
+    line-height: 3.6rem;
+  }
+}
