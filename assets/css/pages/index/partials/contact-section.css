@@ -1,3 +1,7 @@
+#contact-section {
+  padding-bottom: 8rem;
+}
+
 #wrapper-contact {
   display: flex;
   flex-direction: column;
