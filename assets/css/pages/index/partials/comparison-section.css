@@ -38,11 +38,11 @@
 
   margin-bottom: 4.8rem;
 
-  color: var(--foreground);
+  color: var(--cor-de-texto);
 }
 
 #comparison-section h2 span {
-  background-image: var(--primary);
+  background-image: var(--cor-primaria);
   background-clip: text;
   -webkit-background-clip: text;
 
@@ -58,7 +58,7 @@
 
 #comparison-section #wrapper-comparison #magnix,
 #comparison-section #wrapper-comparison #other-agencies {
-  background: var(--accent);
+  background: var(--cor-de-fundo-transparente);
 
   padding: 2.4rem 1.2rem;
 
@@ -74,7 +74,7 @@
 
   line-height: 3rem;
 
-  background-image: var(--primary);
+  background-image: var(--cor-primaria);
   background-clip: text;
   -webkit-background-clip: text;
 
@@ -125,7 +125,7 @@
 
   line-height: 2.4rem;
 
-  background-image: var(--primary);
+  background-image: var(--cor-primaria);
   background-clip: text;
   -webkit-background-clip: text;
 
@@ -144,7 +144,7 @@
   #wrapper-content-other-agencies
   .content-other-agencies
   p {
-  color: var(--foreground);
+  color: var(--cor-de-texto);
 
   font-size: 1.8rem;
 

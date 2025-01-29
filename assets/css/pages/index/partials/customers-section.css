@@ -3,7 +3,7 @@
 
   line-height: 4rem;
 
-  background-image: var(--primary);
+  background-image: var(--cor-primaria);
   background-clip: text;
   -webkit-background-clip: text;
 

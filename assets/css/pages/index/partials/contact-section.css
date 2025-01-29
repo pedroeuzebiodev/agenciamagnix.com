@@ -17,9 +17,9 @@
 
   padding: 1.2rem 2.4rem;
 
-  background: var(--primary);
+  background: var(--cor-primaria);
 
-  color: var(--foreground);
+  color: var(--cor-de-texto);
 
   font-size: 2.4rem;
 

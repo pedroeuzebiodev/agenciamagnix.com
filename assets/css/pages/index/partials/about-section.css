@@ -24,7 +24,7 @@
 
   line-height: 4rem;
 
-  background-image: var(--primary);
+  background-image: var(--cor-primaria);
   background-clip: text;
   -webkit-background-clip: text;
 
@@ -36,7 +36,7 @@
 
   line-height: 3rem;
 
-  color: var(--foreground);
+  color: var(--cor-de-texto);
 }
 
 #about-section #wrapper-about #wrapper-content-about p {
@@ -44,7 +44,7 @@
 
   line-height: 2.4rem;
 
-  color: var(--foreground);
+  color: var(--cor-de-texto);
 }
 
 @media (max-width: 768px) {

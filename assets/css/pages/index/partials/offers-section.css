@@ -26,7 +26,7 @@
 
   line-height: 4rem;
 
-  background-image: var(--primary);
+  background-image: var(--cor-primaria);
   background-clip: text;
   -webkit-background-clip: text;
 
@@ -62,7 +62,7 @@
 
   line-height: 3rem;
 
-  color: var(--foreground);
+  color: var(--cor-de-texto);
 
   text-align: center;
 }
@@ -73,7 +73,7 @@
 }
 
 #offers-section #offers .offer .wrapper-text-offer {
-  background: var(--foreground);
+  background: var(--cor-de-texto);
 
   padding: 2.4rem 1.2rem;
 
@@ -87,7 +87,7 @@
 
   line-height: 2rem;
 
-  color: var(--secondary);
+  color: var(--cor-secundaria);
 }
 
 @media (max-width: 768px) {

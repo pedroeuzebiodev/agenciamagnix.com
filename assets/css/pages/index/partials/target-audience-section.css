@@ -43,7 +43,7 @@
 }
 
 #target-audience-section h2 {
-  color: var(--foreground);
+  color: var(--cor-de-texto);
 
   text-align: center;
 
@@ -51,7 +51,7 @@
 }
 
 #target-audience-section h2 span {
-  background-image: var(--primary);
+  background-image: var(--cor-primaria);
   background-clip: text;
   -webkit-background-clip: text;
 
@@ -94,7 +94,7 @@
   #target-audiences
   .target-audience
   h3 {
-  background-image: var(--primary);
+  background-image: var(--cor-primaria);
   background-clip: text;
   -webkit-background-clip: text;
 
@@ -113,7 +113,7 @@
   width: 0.2rem;
   height: 100%;
 
-  background: var(--primary);
+  background: var(--cor-primaria);
 }
 
 #target-audience-section
@@ -121,7 +121,7 @@
   #target-audiences
   .target-audience
   p {
-  color: var(--foreground);
+  color: var(--cor-de-texto);
 
   font-size: 1.8rem;
 
@@ -161,8 +161,6 @@
     #target-audiences
     .target-audience
     p {
-    color: var(--foreground);
-
     font-size: 1.6rem;
 
     line-height: 1.8rem;
