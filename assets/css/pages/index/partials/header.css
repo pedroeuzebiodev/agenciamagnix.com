@@ -3,7 +3,8 @@ header {
 }
 
 header a img {
-  width: 12.8rem;
+  width: 100%;
+  max-width: 12.8rem;
 
   animation: apareceNaTela 1500ms;
 }
