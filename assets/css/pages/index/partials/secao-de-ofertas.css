@@ -5,10 +5,10 @@
 #secao-de-ofertas #g-branco-1-da-secao-de-ofertas,
 #secao-de-ofertas #g-branco-2-da-secao-de-ofertas {
   position: absolute;
+  z-index: -1;
 
   width: 100%;
   max-width: 51.2rem;
-  z-index: -1;
 }
 
 #secao-de-ofertas #g-branco-1-da-secao-de-ofertas {
