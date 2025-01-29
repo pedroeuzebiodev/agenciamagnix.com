@@ -1,4 +1,4 @@
-@keyframes appear {
+@keyframes apareceNaTela {
   from {
     opacity: 0;
     translate: -100vw 0;
