@@ -1,9 +1,9 @@
-#offers-section {
+#secao-de-ofertas {
   position: relative;
 }
 
-#offers-section #g-white-1-offers-section,
-#offers-section #g-white-2-offers-section {
+#secao-de-ofertas #g-branco-1-da-secao-de-ofertas,
+#secao-de-ofertas #g-branco-2-da-secao-de-ofertas {
   position: absolute;
 
   width: 100%;
@@ -11,17 +11,17 @@
   z-index: -1;
 }
 
-#offers-section #g-white-1-offers-section {
+#secao-de-ofertas #g-branco-1-da-secao-de-ofertas {
   left: 0;
   bottom: 0;
 }
 
-#offers-section #g-white-2-offers-section {
+#secao-de-ofertas #g-branco-2-da-secao-de-ofertas {
   right: 0;
   top: 0;
 }
 
-#offers-section h2 {
+#secao-de-ofertas h2 {
   font-size: 3.6rem;
 
   line-height: 4rem;
@@ -38,7 +38,7 @@
   margin-bottom: 4.8rem;
 }
 
-#offers-section #offers {
+#secao-de-ofertas #ofertas {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -46,7 +46,7 @@
   gap: 4.8rem;
 }
 
-#offers-section #offers .offer {
+#secao-de-ofertas #ofertas .oferta {
   display: flex;
   flex-direction: column;
   gap: 4.8rem;
@@ -57,7 +57,7 @@
   max-width: 32rem;
 }
 
-#offers-section #offers .offer h3 {
+#secao-de-ofertas #ofertas .oferta h3 {
   font-size: 2.4rem;
 
   line-height: 3rem;
@@ -67,12 +67,15 @@
   text-align: center;
 }
 
-#offers-section #offers .offer img {
+#secao-de-ofertas #ofertas .oferta img {
   width: 100%;
   max-width: 16rem;
 }
 
-#offers-section #offers .offer .wrapper-text-offer {
+#secao-de-ofertas
+  #ofertas
+  .oferta
+  .caixa-de-fundo-do-texto-da-secao-de-ofertas {
   background: var(--cor-de-texto);
 
   padding: 2.4rem 1.2rem;
@@ -82,7 +85,11 @@
   height: 28.8rem;
 }
 
-#offers-section #offers .offer .wrapper-text-offer p {
+#secao-de-ofertas
+  #ofertas
+  .oferta
+  .caixa-de-fundo-do-texto-da-secao-de-ofertas
+  p {
   font-size: 1.8rem;
 
   line-height: 2rem;
@@ -91,19 +98,23 @@
 }
 
 @media (max-width: 768px) {
-  #offers-section h2 {
+  #secao-de-ofertas h2 {
     font-size: 3rem;
 
     line-height: 3.6rem;
   }
 
-  #offers-section #offers .offer h3 {
+  #secao-de-ofertas #ofertas .oferta h3 {
     font-size: 2rem;
 
     line-height: 2.4rem;
   }
 
-  #offers-section #offers .offer .wrapper-text-offer p {
+  #secao-de-ofertas
+    #ofertas
+    .oferta
+    .caixa-de-fundo-do-texto-da-secao-de-ofertas
+    p {
     font-size: 1.6rem;
 
     line-height: 1.8rem;
