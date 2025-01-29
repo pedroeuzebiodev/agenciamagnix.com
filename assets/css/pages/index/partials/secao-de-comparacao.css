@@ -1,0 +1,172 @@
+#secao-de-comparacao {
+  position: relative;
+}
+
+#secao-de-comparacao #caixa-de-selecao-verde,
+#secao-de-comparacao #caixa-de-selecao-vermelha {
+  position: absolute;
+  z-index: -1;
+
+  width: 100%;
+  max-width: 25.6rem;
+}
+
+#secao-de-comparacao #caixa-de-selecao-verde,
+#secao-de-comparacao #caixa-de-selecao-vermelha {
+  top: 25.6rem;
+}
+
+#secao-de-comparacao #caixa-de-selecao-verde {
+  left: 0;
+}
+
+#secao-de-comparacao #caixa-de-selecao-vermelha {
+  right: 0;
+}
+
+#secao-de-comparacao h2,
+#secao-de-comparacao h2 span {
+  font-size: 3.6rem;
+  font-weight: 400;
+
+  line-height: 4rem;
+}
+
+#secao-de-comparacao h2 {
+  text-transform: uppercase;
+  text-align: center;
+
+  margin-bottom: 4.8rem;
+
+  color: var(--cor-de-texto);
+}
+
+#secao-de-comparacao h2 span {
+  background-image: var(--cor-primaria);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+}
+
+#secao-de-comparacao #caixa-de-comparacao {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4.8rem;
+  justify-content: center;
+}
+
+#secao-de-comparacao #caixa-de-comparacao #magnix,
+#secao-de-comparacao #caixa-de-comparacao #outras-agencias {
+  background: var(--cor-de-fundo-transparente);
+
+  padding: 2.4rem 1.2rem;
+
+  border-radius: 0.8rem;
+
+  width: 100%;
+  max-width: 57.6rem;
+}
+
+#secao-de-comparacao #caixa-de-comparacao #magnix h3,
+#secao-de-comparacao #caixa-de-comparacao #outras-agencias h3 {
+  font-size: 2.4rem;
+
+  line-height: 3rem;
+
+  background-image: var(--cor-primaria);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+
+  text-align: center;
+
+  margin-bottom: 2.4rem;
+}
+
+#secao-de-comparacao #caixa-de-comparacao #magnix #caixa-de-conteudo-da-magnix,
+#secao-de-comparacao
+  #caixa-de-comparacao
+  #outras-agencias
+  #caixa-de-conteudo-de-outras-agencias {
+  display: flex;
+  flex-direction: column;
+  gap: 4.8rem;
+}
+
+#secao-de-comparacao
+  #caixa-de-comparacao
+  #magnix
+  #caixa-de-conteudo-da-magnix
+  .conteudo-da-magnix,
+#secao-de-comparacao
+  #caixa-de-comparacao
+  #outras-agencias
+  #caixa-de-conteudo-de-outras-agencias
+  .conteudo-de-outras-agencias {
+  display: flex;
+  gap: 0.8rem;
+}
+
+#secao-de-comparacao
+  #caixa-de-comparacao
+  #magnix
+  #caixa-de-conteudo-da-magnix
+  .conteudo-da-magnix
+  h4,
+#secao-de-comparacao
+  #caixa-de-comparacao
+  #outras-agencias
+  #caixa-de-conteudo-de-outras-agencias
+  .conteudo-de-outras-agencias
+  h4 {
+  font-size: 2rem;
+
+  line-height: 2.4rem;
+
+  background-image: var(--cor-primaria);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+}
+
+#secao-de-comparacao
+  #caixa-de-comparacao
+  #magnix
+  #caixa-de-conteudo-da-magnix
+  .conteudo-da-magnix
+  p,
+#secao-de-comparacao
+  #caixa-de-comparacao
+  #outras-agencias
+  #caixa-de-conteudo-de-outras-agencias
+  .conteudo-de-outras-agencias
+  p {
+  color: var(--cor-de-texto);
+
+  font-size: 1.8rem;
+
+  line-height: 2rem;
+}
+
+@media (max-width: 768px) {
+  #secao-de-comparacao h2,
+  #secao-de-comparacao h2 span {
+    font-size: 3rem;
+    font-weight: 400;
+
+    line-height: 3.6rem;
+  }
+}
+
+@media (max-width: 1280px) {
+  #secao-de-comparacao #caixa-de-selecao-verde {
+    top: 24%;
+  }
+
+  #secao-de-comparacao #caixa-de-selecao-vermelha {
+    top: 64%;
+  }
+}
