@@ -1,16 +1,16 @@
-#about-section #wrapper-about {
+#secao-de-sobre #caixa-do-sobre {
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 4.8rem;
 }
 
-#about-section #wrapper-about img {
+#secao-de-sobre #caixa-do-sobre img {
   width: 100%;
   max-width: 46.8rem;
 }
 
-#about-section #wrapper-about #wrapper-content-about {
+#secao-de-sobre #caixa-do-sobre #caixa-do-conteudo-do-sobre {
   display: flex;
   flex-direction: column;
   gap: 2.4rem;
@@ -19,7 +19,7 @@
   max-width: 57.6rem;
 }
 
-#about-section #wrapper-about #wrapper-content-about h2 {
+#secao-de-sobre #caixa-do-sobre #caixa-do-conteudo-do-sobre h2 {
   font-size: 3.6rem;
 
   line-height: 4rem;
@@ -31,7 +31,7 @@
   color: transparent;
 }
 
-#about-section #wrapper-about #wrapper-content-about h3 {
+#secao-de-sobre #caixa-do-sobre #caixa-do-conteudo-do-sobre h3 {
   font-size: 2.4rem;
 
   line-height: 3rem;
@@ -39,7 +39,7 @@
   color: var(--cor-de-texto);
 }
 
-#about-section #wrapper-about #wrapper-content-about p {
+#secao-de-sobre #caixa-do-sobre #caixa-do-conteudo-do-sobre p {
   font-size: 2rem;
 
   line-height: 2.4rem;
@@ -48,23 +48,23 @@
 }
 
 @media (max-width: 768px) {
-  #about-section #wrapper-about {
+  #secao-de-sobren #caixa-do-sobre {
     flex-wrap: wrap-reverse;
   }
 
-  #about-section #wrapper-about #wrapper-content-about h2 {
+  #secao-de-sobre #caixa-do-sobre #caixa-do-conteudo-do-sobre h2 {
     font-size: 3rem;
 
     line-height: 3.6rem;
   }
 
-  #about-section #wrapper-about #wrapper-content-about h3 {
+  #secao-de-sobre #caixa-do-sobre #caixa-do-conteudo-do-sobre h3 {
     font-size: 2rem;
 
     line-height: 2.4rem;
   }
 
-  #about-section #wrapper-about #wrapper-content-about p {
+  #secao-de-sobre #caixa-do-sobre #caixa-do-conteudo-do-sobre p {
     font-size: 1.8rem;
 
     line-height: 2rem;

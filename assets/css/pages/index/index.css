@@ -1,6 +1,5 @@
 @import url(../../global/global.css);
 
-@import url(./partials/about-section.css);
 @import url(./partials/contact-section.css);
 @import url(./partials/customers-section.css);
 @import url(./partials/g-branco.css);
@@ -10,3 +9,4 @@
 @import url(./partials/secao-de-inicio.css);
 @import url(./partials/secao-de-ofertas.css);
 @import url(./partials/secao-de-publico-alvo.css);
+@import url(./partials/secao-de-sobre.css);
