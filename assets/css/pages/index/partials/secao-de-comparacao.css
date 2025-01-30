@@ -65,7 +65,7 @@
   border-radius: 0.8rem;
 
   width: 100%;
-  max-width: 57.6rem;
+  max-width: 51.2rem;
 }
 
 #secao-de-comparacao #caixa-de-comparacao #magnix h3,
@@ -158,6 +158,47 @@
     font-weight: 400;
 
     line-height: 3.6rem;
+  }
+
+  #secao-de-comparacao #caixa-de-comparacao #magnix h3,
+  #secao-de-comparacao #caixa-de-comparacao #outras-agencias h3 {
+    font-size: 2rem;
+
+    line-height: 2.4rem;
+  }
+
+  #secao-de-comparacao
+    #caixa-de-comparacao
+    #magnix
+    #caixa-de-conteudo-da-magnix
+    .conteudo-da-magnix
+    h4,
+  #secao-de-comparacao
+    #caixa-de-comparacao
+    #outras-agencias
+    #caixa-de-conteudo-de-outras-agencias
+    .conteudo-de-outras-agencias
+    h4 {
+    font-size: 1.8rem;
+
+    line-height: 2rem;
+  }
+
+  #secao-de-comparacao
+    #caixa-de-comparacao
+    #magnix
+    #caixa-de-conteudo-da-magnix
+    .conteudo-da-magnix
+    p,
+  #secao-de-comparacao
+    #caixa-de-comparacao
+    #outras-agencias
+    #caixa-de-conteudo-de-outras-agencias
+    .conteudo-de-outras-agencias
+    p {
+    font-size: 1.6rem;
+
+    line-height: 1.8rem;
   }
 }
 
