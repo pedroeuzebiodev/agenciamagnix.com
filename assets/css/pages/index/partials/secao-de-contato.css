@@ -31,12 +31,14 @@
   cursor: pointer;
 
   text-decoration: none;
+
+  text-transform: uppercase;
 }
 
 @media (max-width: 768px) {
   #secao-de-contato #caixa-de-contato a {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
 
-    line-height: 1.8rem;
+    line-height: 1.6rem;
   }
 }

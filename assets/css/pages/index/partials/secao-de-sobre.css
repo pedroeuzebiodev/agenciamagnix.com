@@ -15,7 +15,7 @@
 
 #secao-de-sobre #caixa-do-sobre {
   display: flex;
-  flex-direction: column-reverse;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 4.8rem;
@@ -24,12 +24,14 @@
 #secao-de-sobre #caixa-do-sobre img {
   width: 100%;
   max-width: 44.8rem;
+
+  border-radius: 2.4rem;
 }
 
 #secao-de-sobre #caixa-do-sobre #caixa-do-conteudo-do-sobre {
   display: flex;
   flex-direction: column;
-  gap: 2.4rem;
+  gap: 1.6rem;
 
   width: 100%;
   max-width: 57.6rem;
@@ -48,7 +50,7 @@
 }
 
 #secao-de-sobre #caixa-do-sobre #caixa-do-conteudo-do-sobre h3 {
-  font-size: 2.4rem;
+  font-size: 2rem;
 
   line-height: 3rem;
 
@@ -71,7 +73,7 @@
   }
 
   #secao-de-sobre #caixa-do-sobre #caixa-do-conteudo-do-sobre h3 {
-    font-size: 2rem;
+    font-size: 1.8rem;
 
     line-height: 2.4rem;
   }

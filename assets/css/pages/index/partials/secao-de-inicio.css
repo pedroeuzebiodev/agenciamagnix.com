@@ -55,6 +55,8 @@
   text-decoration: none;
 
   display: inline-block;
+
+  text-transform: uppercase;
 }
 
 #secao-de-inicio #colunas-da-secao-de-inicio #coluna-2-da-secao-de-inicio img {

@@ -32,7 +32,7 @@
   align-items: center;
 
   animation-name: apareceNaTelaInfinitamente;
-  animation-duration: 20s;
+  animation-duration: 24s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
