@@ -35,10 +35,7 @@
   animation: apareceNaTela 2400ms ease-in-out;
 }
 
-#secao-de-inicio
-  #colunas-da-secao-de-inicio
-  #coluna-1-da-secao-de-inicio
-  button {
+#secao-de-inicio #colunas-da-secao-de-inicio #coluna-1-da-secao-de-inicio a {
   font-size: 2.4rem;
 
   line-height: 3rem;
@@ -47,7 +44,6 @@
 
   background: var(--cor-primaria);
 
-  border: none;
   border-radius: 999.9rem;
 
   padding: 1.2rem 2.4rem;
@@ -55,6 +51,10 @@
   cursor: pointer;
 
   animation: apareceNaTela 2800ms ease-in-out;
+
+  text-decoration: none;
+
+  display: inline-block;
 }
 
 #secao-de-inicio #colunas-da-secao-de-inicio #coluna-2-da-secao-de-inicio img {
@@ -70,10 +70,7 @@
   }
 
   #secao-de-inicio #colunas-da-secao-de-inicio #coluna-1-da-secao-de-inicio h2,
-  #secao-de-inicio
-    #colunas-da-secao-de-inicio
-    #coluna-1-da-secao-de-inicio
-    button {
+  #secao-de-inicio #colunas-da-secao-de-inicio #coluna-1-da-secao-de-inicio a {
     font-size: 2rem;
 
     line-height: 2.4rem;
