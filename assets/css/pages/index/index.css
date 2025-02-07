@@ -1,9 +1,9 @@
 @import url(../../global/global.css);
 
-@import url(./partials/customers-section.css);
 @import url(./partials/g-branco.css);
 @import url(./partials/header.css);
 @import url(./partials/linha-entre-secoes.css);
+@import url(./partials/secao-de-clientes.css);
 @import url(./partials/secao-de-comparacao.css);
 @import url(./partials/secao-de-contato.css);
 @import url(./partials/secao-de-inicio.css);
