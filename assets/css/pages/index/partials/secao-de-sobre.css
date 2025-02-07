@@ -1,3 +1,18 @@
+#secao-de-sobre {
+  position: relative;
+}
+
+#secao-de-sobre #g-branco-da-secao-de-sobre {
+  width: 100%;
+  max-width: 51.2rem;
+  height: 89.6rem;
+
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
 #secao-de-sobre #caixa-do-sobre {
   display: flex;
   flex-direction: column-reverse;
