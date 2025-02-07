@@ -1,3 +1,7 @@
+#secao-de-clientes .max-width {
+  overflow: hidden;
+}
+
 #secao-de-clientes h2 {
   font-size: 3.6rem;
 
@@ -17,19 +21,23 @@
 
 #secao-de-clientes #clientes {
   display: flex;
-  flex-wrap: wrap;
   gap: 4.8rem;
   justify-content: center;
   align-items: center;
+
+  animation-name: apareceNaTelaInfinitamente;
+  animation-duration: 16s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
 }
 
 #secao-de-clientes #clientes .cliente {
   width: 100%;
-  max-width: 12.8rem;
+  max-width: 8rem;
 }
 
 #secao-de-clientes #clientes #cliente-40-eduardo-coelho-logo {
-  height: 9.6rem;
+  height: 6.4rem;
 
   object-fit: contain;
 }

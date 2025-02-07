@@ -9,3 +9,13 @@
     translate: 0 0;
   }
 }
+
+@keyframes apareceNaTelaInfinitamente {
+  from {
+    transform: translateX(100%);
+  }
+
+  to {
+    transform: translateX(-1280px);
+  }
+}
