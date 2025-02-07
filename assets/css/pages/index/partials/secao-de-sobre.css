@@ -83,7 +83,7 @@
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1080px) {
   #secao-de-sobre #caixa-do-sobre {
     flex-direction: row;
   }
