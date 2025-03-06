@@ -1,7 +1,3 @@
-#secao-de-contato {
-  padding-bottom: 8rem;
-}
-
 #secao-de-contato #conteudo-da-secao-de-contato {
   display: flex;
   flex-direction: column;
