@@ -1,24 +1,19 @@
 html {
   scroll-behavior: smooth;
-  overflow-x: hidden;
 }
 
 body {
-  background: var(--cor-de-fundo) no-repeat top center / cover;
+  background: var(--cor-de-fundo) no-repeat;
   min-height: 100vh;
-}
-
-#app {
-  min-width: 100%;
 }
 
 .max-width {
   width: 100%;
   max-width: 128rem;
-  margin: 0 auto;
+  margin: auto;
   padding: 0 3rem;
 }
 
 section {
-  padding: 4rem 0;
+  padding: 4.8rem 0;
 }

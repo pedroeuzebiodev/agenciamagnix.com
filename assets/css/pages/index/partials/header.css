@@ -1,10 +1,10 @@
 header {
-  padding: 8rem 0 0.8rem;
+  padding-top: 8rem;
 }
 
-header a img {
+header img {
   width: 100%;
   max-width: 12.8rem;
 
-  animation: apareceNaTela 1500ms ease-in-out;
+  animation: apareceNaTela 1.5s ease-in-out;
 }

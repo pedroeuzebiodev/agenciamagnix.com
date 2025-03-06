@@ -3,9 +3,9 @@
 }
 
 #secao-de-clientes h2 {
-  font-size: 3.6rem;
+  font-size: 2.4rem;
 
-  line-height: 4rem;
+  line-height: 3rem;
 
   background-image: var(--cor-primaria);
   background-clip: text;
@@ -19,39 +19,35 @@
   margin-bottom: 4.8rem;
 }
 
-#secao-de-clientes #clientes {
+#secao-de-clientes #conteudo-da-secao-de-clientes {
   background: var(--cor-primaria);
 
   padding: 0.8rem 0;
+
+  overflow: hidden;
 }
 
-#secao-de-clientes #clientes #caixa-de-clientes {
+#secao-de-clientes #clientes {
   display: flex;
   gap: 4.8rem;
   justify-content: center;
   align-items: center;
 
-  animation-name: apareceNaTelaInfinitamente;
-  animation-duration: 24s;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
+  animation: apareceNaTelaInfinitamente 20s infinite linear;
 }
 
-#secao-de-clientes #clientes #caixa-de-clientes .cliente {
+#secao-de-clientes .cliente {
   width: 100%;
   max-width: 4.8rem;
 }
 
-#secao-de-clientes
-  #clientes
-  #caixa-de-clientes
-  #cliente-40-eduardo-coelho-logo {
+#secao-de-clientes #cliente-40-eduardo-coelho-logo {
   height: 2.4rem;
 
   object-fit: contain;
 }
 
-@media (max-width: 768px) {
+@media (width >= 76.8rem) {
   #secao-de-clientes h2 {
     font-size: 3rem;
 

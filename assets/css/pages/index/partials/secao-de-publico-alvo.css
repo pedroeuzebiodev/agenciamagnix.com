@@ -18,7 +18,7 @@
 }
 
 #secao-de-publico-alvo #bola-roxa {
-  left: 6.4rem;
+  left: 0;
 
   max-width: 16rem;
 }
@@ -29,13 +29,16 @@
 
 #secao-de-publico-alvo #g-branco-da-secao-de-publico-alvo {
   max-width: 51.2rem;
+  height: 67.2rem;
+  object-fit: fill;
 }
 
 #secao-de-publico-alvo h2,
 #secao-de-publico-alvo h2 span {
-  font-size: 3.6rem;
+  font-size: 2.4rem;
+  font-weight: 600;
 
-  line-height: 4rem;
+  line-height: 3rem;
 
   text-transform: uppercase;
 }
@@ -48,7 +51,7 @@
   margin-bottom: 4.8rem;
 }
 
-#secao-de-publico-alvo h2 span {
+#secao-de-publico-alvo span {
   background-image: var(--cor-primaria);
   background-clip: text;
   -webkit-background-clip: text;
@@ -56,20 +59,22 @@
   color: transparent;
 }
 
-#secao-de-publico-alvo #caixa-de-publicos-alvo {
+#secao-de-publico-alvo #conteudo-da-secao-de-publicos-alvo {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   gap: 4.8rem;
+
+  overflow: hidden;
 }
 
-#secao-de-publico-alvo #caixa-de-publicos-alvo img {
+#secao-de-publico-alvo img {
   width: 100%;
   max-width: 51.2rem;
 }
 
-#secao-de-publico-alvo #caixa-de-publicos-alvo #publicos-alvo {
+#secao-de-publico-alvo #publicos-alvo {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -79,52 +84,41 @@
   max-width: 51.2rem;
 }
 
-#secao-de-publico-alvo #caixa-de-publicos-alvo #publicos-alvo .publico-alvo {
+#secao-de-publico-alvo .publico-alvo {
   display: flex;
   align-items: center;
   gap: 0.8rem;
 }
 
-#secao-de-publico-alvo #caixa-de-publicos-alvo #publicos-alvo .publico-alvo h3 {
+#secao-de-publico-alvo h3 {
   background-image: var(--cor-primaria);
   background-clip: text;
   -webkit-background-clip: text;
 
   color: transparent;
 
-  font-size: 2.4rem;
+  font-size: 2rem;
+  font-weight: 500;
 
-  line-height: 3rem;
+  line-height: 2.4rem;
 }
 
-#secao-de-publico-alvo
-  #caixa-de-publicos-alvo
-  #publicos-alvo
-  .publico-alvo
-  .linha-entre-texto-da-secao-de-publico-alvo {
+#secao-de-publico-alvo .linha-entre-texto-da-secao-de-publico-alvo {
   width: 0.2rem;
   height: 2.4rem;
 
   background: var(--cor-primaria);
 }
 
-#secao-de-publico-alvo #caixa-de-publicos-alvo #publicos-alvo .publico-alvo p {
+#secao-de-publico-alvo p {
   color: var(--cor-de-texto);
 
-  font-size: 1.8rem;
-
-  line-height: 2rem;
+  line-height: 1.8rem;
 }
 
-@media (max-width: 768px) {
+@media (width >= 768px) {
   #secao-de-publico-alvo #bola-roxa {
-    max-width: 8rem;
-
-    left: 0;
-  }
-
-  #secao-de-publico-alvo #bolinhas-roxa {
-    max-width: 16rem;
+    left: 6.4rem;
   }
 
   #secao-de-publico-alvo h2,
@@ -134,23 +128,15 @@
     line-height: 3.6rem;
   }
 
-  #secao-de-publico-alvo
-    #caixa-de-publicos-alvo
-    #publicos-alvo
-    .publico-alvo
-    h3 {
-    font-size: 2rem;
+  #secao-de-publico-alvo h3 {
+    font-size: 2.4rem;
 
-    line-height: 2.4rem;
+    line-height: 3rem;
   }
 
-  #secao-de-publico-alvo
-    #caixa-de-publicos-alvo
-    #publicos-alvo
-    .publico-alvo
-    p {
-    font-size: 1.6rem;
+  #secao-de-publico-alvo p {
+    font-size: 1.8rem;
 
-    line-height: 1.8rem;
+    line-height: 2rem;
   }
 }

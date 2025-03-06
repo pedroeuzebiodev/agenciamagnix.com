@@ -1,65 +1,65 @@
 {
-  // Adiciona `JetBrains Mono` como a família de fontes do editor.
+  // Adiciona `JetBrains Mono` como a família de fontes do editor
   "editor.fontFamily": "JetBrains Mono",
 
-  // Adiciona `16 pixels` como tamanho da fonte do editor.
-  "editor.fontSize": 16,
+  // Adiciona `18 pixels` como tamanho da fonte do editor
+  "editor.fontSize": 18,
 
-  // Adiciona `1.8` como tamanha da altura da linha do editor.
+  // Adiciona `1.8` como tamanha da altura da linha do editor
   "editor.lineHeight": 1.8,
 
-  // Habilita formatação automática de um arquivo ao salvar.
+  // Habilita formatação automática de um arquivo ao salvar
   "editor.formatOnSave": true,
 
-  // Habilita formatação automática de um conteúdo ao ser colado.
+  // Habilita formatação automática de um conteúdo ao ser colado
   "editor.formatOnPaste": true,
 
-  // Desabilita o minimapa.
+  // Desabilita o minimapa
   "editor.minimap.enabled": false,
 
-  // Oculta a barra de rolagem vertical.
+  // Oculta a barra de rolagem vertical
   "editor.scrollbar.vertical": "hidden",
 
-  // Oculta a barra de rolagem horizontal.
+  // Oculta a barra de rolagem horizontal
   "editor.scrollbar.horizontal": "hidden",
 
-  // Adiciona `2` como número de espaços aos qual uma guia é igual.
+  // Adiciona `2` como número de espaços aos qual uma guia é igual
   "editor.tabSize": 2,
 
-  // Adiciona que as linhas serão quebradas em `editor.wordWrapColumn`.
+  // Adiciona que as linhas serão quebradas em `editor.wordWrapColumn`
   "editor.wordWrap": "wordWrapColumn",
 
-  // Habilita as ligaturas de fonte (os recursos de fonte `calt` e `liga`).
+  // Habilita as ligaturas de fonte (os recursos de fonte `calt` e `liga`)
   "editor.fontLigatures": true,
 
-  // Adiciona Prettier como formatador padrão que tem precedência sobre todas as outras configurações do formatador.
+  // Adiciona Prettier como formatador padrão que tem precedência sobre todas as outras configurações do formatador
   "editor.defaultFormatter": "esbenp.prettier-vscode",
 
-  // Desabilita os escopos atuais aninhados durante a rolagem na parte superior do editor.
+  // Desabilita os escopos atuais aninhados durante a rolagem na parte superior do editor
   "editor.stickyScroll.enabled": false,
 
-  // Desabilita um pop-up que mostra a documentação do parâmetro e as informações de tipo conforme você digita.
+  // Desabilita um pop-up que mostra a documentação do parâmetro e as informações de tipo conforme você digita
   "editor.parameterHints.enabled": false,
 
-  // Adiciona `gutter` como o editor deve renderizar o realce da linha atual.
+  // Adiciona `gutter` como o editor deve renderizar o realce da linha atual
   "editor.renderLineHighlight": "gutter",
 
-  // Habilita que o cursor deve ser ocultado na régua de visão geral.
+  // Habilita que o cursor deve ser ocultado na régua de visão geral
   "editor.hideCursorInOverviewRuler": true,
 
-  // Desabilita o realce de semântica para todos os temas de cor.
+  // Desabilita o realce de semântica para todos os temas de cor
   "editor.semanticHighlighting.enabled": false,
 
-  // Desabilita a otimização para leitores de tela.
+  // Desabilita a otimização para leitores de tela
   "editor.accessibilitySupport": "off",
 
-  // Desabilita as sugestões  que devem ser aceitas em caracteres de confirmação.
+  // Desabilita as sugestões  que devem ser aceitas em caracteres de confirmação
   "editor.acceptSuggestionOnCommitCharacter": false,
 
-  // Adiciona réguas verticais após um determinado número de caracteres com espaçamento uniforme.
+  // Adiciona réguas verticais após um determinado número de caracteres com espaçamento uniforme
   "editor.rulers": [80, 120],
 
-  // Adiciona ações de código para o editor ao salvar.
+  // Adiciona ações de código para o editor ao salvar
   "editor.codeActionsOnSave": {
     // Adiciona `explicit` as ações de Código somente quando salvas explicitamente
     "source.fixAll.eslint": "explicit",
@@ -68,52 +68,52 @@
     "source.fixAll.markdownlint": "explicit"
   },
 
-  // Oculta a barra de atividades nas barras laterais primárias e secundárias.
-  "workbench.activityBar.location": "hidden",
+  // Oculta a barra de atividades nas barras laterais primárias e secundárias
+  // "workbench.activityBar.location": "hidden",
 
-  // Desabilita a visibilidade da barra de status na parte inferior do workbench.
+  // Desabilita a visibilidade da barra de status na parte inferior do workbench
   "workbench.statusBar.visible": false,
 
   // Adiciona `none`, iniciar sem um editor
   "workbench.startupEditor": "none",
 
-  // Adiciona `Material Icon Theme` o tema do ícone de arquivo usado no workbench
+  // Adiciona `Symbols` o tema do ícone de arquivo usado no workbench
   "workbench.iconTheme": "material-icon-theme",
 
-  // Adiciona `Fluent Icons` o tema do ícone do produto usado.
+  // Adiciona `Fluent Icons` o tema do ícone do produto usado
   "workbench.productIconTheme": "fluent-icons",
 
-  // Adiciona `Omni` o tema de cores usado no workbench.
-  "workbench.colorTheme": "Omni",
+  // Adiciona `Min Dark` o tema de cores usado no workbench
+  "workbench.colorTheme": "Min Dark",
 
-  // Desabilita o controle de layout.
+  // Desabilita o controle de layout
   "workbench.layoutControl.enabled": false,
 
-  // Desabilita a rolagem adesiva em árvores.
+  // Desabilita a rolagem adesiva em árvores
   "workbench.tree.enableStickyScroll": false,
 
-  // Adiciona `short` o formato do rótulo de um editor, mostra o nome do arquivo seguido por seu nome de diretório.
+  // Adiciona `short` o formato do rótulo de um editor, mostra o nome do arquivo seguido por seu nome de diretório
   "workbench.editor.labelFormat": "short",
 
-  // Adiciona `hidden` a dica de texto do editor vazio.
+  // Adiciona `hidden` a dica de texto do editor vazio
   "workbench.editor.empty.hint": "hidden",
 
-  // Desabilita a confirmação ao excluir um arquivo por meio da lixeira.
+  // Desabilita a confirmação ao excluir um arquivo por meio da lixeira
   "explorer.confirmDelete": false,
 
-  // Desabilita a renderização de pastas em um formato compacto.
+  // Desabilita a renderização de pastas em um formato compacto
   "explorer.compactFolders": false,
 
   // Adiciona `folderNestsFiles` para que arquivos e pastas são classificados por seus nomes.
   "explorer.sortOrder": "foldersNestsFiles",
 
-  // Habilita o aninhamento de arquivos, permite que os arquivos relacionados em um diretório sejam agrupados visualmente em um único arquivo pai.
+  // Habilita o aninhamento de arquivos, permite que os arquivos relacionados em um diretório sejam agrupados visualmente em um único arquivo pai
   "explorer.fileNesting.enabled": true,
 
-  // Desabilita a confirmação para mover arquivos e pastas por meio de arrastar e soltar.
+  // Desabilita a confirmação para mover arquivos e pastas por meio de arrastar e soltar
   "explorer.confirmDragAndDrop": false,
 
-  // Adiciona o aninhamento de arquivos no explorer.
+  // Adiciona o aninhamento de arquivos no explorer
   "explorer.fileNesting.patterns": {
     "package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-*, bun.lockb, nest*, package-lock*",
     "tailwind.config.*": "tailwind.config*, postcss.config*",
@@ -121,16 +121,16 @@
     ".env": ".env*"
   },
 
-  // Adiciona `16 pixels` como o tamanho da fonte do terminal.
-  "terminal.integrated.fontSize": 16,
+  // Adiciona `18 pixels` como o tamanho da fonte do terminal
+  "terminal.integrated.fontSize": 18,
 
-  // Adiciona `JetBrains Mono` como a família de fontes do terminal.
+  // Adiciona `JetBrains Mono` como a família de fontes do terminal
   "terminal.integrated.fontFamily": "JetBrains Mono",
 
   // Desabilita a o alerta `O processo do terminal terminou com o código de saída`
   "terminal.integrated.showExitAlert": false,
 
-  // Habilita a a aceleração da GPU no terminal.
+  // Habilita a a aceleração da GPU no terminal
   "terminal.integrated.gpuAcceleration": "on",
 
   // Adiciona `Git Bash` como o perfil de terminal padrão no Windows
@@ -142,34 +142,34 @@
   // Adiciona `zsh` como o perfil de terminal padrão no macOS
   "terminal.integrated.defaultProfile.osx": "zsh",
 
-  // Desabilita o registro em log do TS Server em um arquivo.
+  // Desabilita o registro em log do TS Server em um arquivo
   "typescript.tsserver.log": "off",
 
-  // Sempre atualizar automaticamente os caminhos de importação ao renomear ou mover um arquivo TypeScript no VS Code.
+  // Sempre atualizar automaticamente os caminhos de importação ao renomear ou mover um arquivo TypeScript no VS Code
   "typescript.updateImportsOnFileMove.enabled": "always",
 
-  // Habilita sugestões de importação automática da linguagem TypeScript.
+  // Habilita sugestões de importação automática da linguagem TypeScript
   "typescript.suggest.autoImports": true,
 
-  // Habilita a palavra-chave "type" em importações automáticas sempre que possível na linguagem TypeScript.
+  // Habilita a palavra-chave "type" em importações automáticas sempre que possível na linguagem TypeScript
   "typescript.preferences.preferTypeOnlyAutoImports": true,
 
-  // Desabilita o inicializador de comandos junto com o título da janela.
+  // Desabilita o inicializador de comandos junto com o título da janela
   "window.commandCenter": false,
 
-  // Adiciona as abreviações do Emmet em linguagens sem suporte por padrão.
+  // Adiciona as abreviações do Emmet em linguagens sem suporte por padrão
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "mdx": "javascriptreact"
   },
 
-  // Adiciona o perfil para a sintaxe especificada ou usar seu próprio perfil com regras específicas.
+  // Adiciona o perfil para a sintaxe especificada ou usar seu próprio perfil com regras específicas
   "emmet.syntaxProfiles": {
     "javascript": "jsx",
     "mdx": "jsx"
   },
 
-  // Add configuration can customize the files icons.
+  // Adiciona configuração que pode personalizar os ícones dos arquivos
   "symbols.files.associations": {
     "*.module.ts": "nest",
     "*.guard.ts": "typescript",
@@ -183,7 +183,7 @@
     ".env.example": "gear"
   },
 
-  // Adiciona associações de arquivo para linguagens.
+  // Adiciona associações de arquivo para linguagens
   "files.associations": {
     ".env.*": "dotenv",
     ".prettierrc": "json",
@@ -191,7 +191,7 @@
     ".dev.vars": "dotenv"
   },
 
-  // Adiciona exclusão de arquivos e pastas.
+  // Adiciona exclusão de arquivos e pastas
   "files.exclude": {
     "**/CVS": true,
     "**/.DS_Store": true,
@@ -202,16 +202,16 @@
     // "node_modules": true
   },
 
-  // Adiciona `manual` o recebimento de atualizações automáticas, desabilita as verificações automáticas de atualização em segundo plano.
+  // Adiciona `manual` o recebimento de atualizações automáticas, desabilita as verificações automáticas de atualização em segundo plano
   "update.mode": "manual",
 
-  // Desabilita notas sobre a versão após uma atualização.
+  // Desabilita notas sobre a versão após uma atualização
   "update.showReleaseNotes": false,
 
-  // Desabilita uma caixa de diálogo solicitando confirmação sempre que um arquivo ou workspace local estiver prestes a ser aberto por meio de um manipulador de protocolo.
+  // Desabilita uma caixa de diálogo solicitando confirmação sempre que um arquivo ou workspace local estiver prestes a ser aberto por meio de um manipulador de protocolo
   "security.promptForLocalFileProtocolHandling": false,
 
-  // Adiciona `newWindow` para lidar com a abertura de arquivos não confiáveis em um espaço de trabalho confiável, sempre vai abrir arquivos não confidenciais em uma janela separada no modo restrito sem solicitar.
+  // Adiciona `newWindow` para lidar com a abertura de arquivos não confiáveis em um espaço de trabalho confiável, sempre vai abrir arquivos não confidenciais em uma janela separada no modo restrito sem solicitar
   "security.workspace.trust.untrustedFiles": "newWindow",
 
   "cSpell.language": "en,pt,pt_BR",
@@ -223,40 +223,51 @@
 
   "eslint.validate": ["javascript", "javascriptreact", "graphql"],
 
-  // Habilita a ignoração das recomendações de extensões.
+  // Habilita a ignoração das recomendações de extensões
   "extensions.ignoreRecommendations": true,
 
-  // Habilita sugestões de importação automática da linguagem JavaScript.
+  // Habilita sugestões de importação automática da linguagem JavaScript
   "javascript.suggest.autoImports": true,
 
-  // Sempre atualizar automaticamente os caminhos de importação ao renomear ou mover um arquivo JavaScript no VS Code.
+  // Sempre atualizar automaticamente os caminhos de importação ao renomear ou mover um arquivo JavaScript no VS Code
   "javascript.updateImportsOnFileMove.enabled": "always",
 
-  // Adiciona configurações do Prisma ORM.
+  // Adiciona configurações do Prisma ORM
   "[prisma]": {
-    // Adiciona "Prisma" como o formatador padrão que tem precedência sobre todas as outras configurações do formatador.
+    // Adiciona "Prisma" como o formatador padrão que tem precedência sobre todas as outras configurações do formatador
     "editor.defaultFormatter": "Prisma.prisma"
   },
 
-  // Adiciona `always` se um repositório em pastas pai de workspaces ou arquivos abertos deve ser aberto, sempre abra um repositório em pastas pai de workspaces ou arquivos abertos.
+  // Adiciona `always` se um repositório em pastas pai de workspaces ou arquivos abertos deve ser aberto, sempre abra um repositório em pastas pai de workspaces ou arquivos abertos
   "git.openRepositoryInParentFolders": "always",
 
-  // Habilita todas as alterações quando não houver alterações preparadas.
+  // Habilita todas as alterações quando não houver alterações preparadas
   "git.enableSmartCommit": true,
 
-  // Desabilita trilhas de navegação.
+  // Desabilita trilhas de navegação
   "breadcrumbs.enabled": false,
 
+  // Desativa pop-up de informações do Live Server
   "liveServer.settings.donotShowInfoMsg": true,
 
+  // Habilita se deseja usar o conjunto de recursos Pro ou Community. Uso apenas os recursos do Console Ninja que estarão Ninja que estarão disponíveis na Community Edition gratuita
   "console-ninja.featureSet": "Community",
 
+  // Especifica se deve fornecer uma alteração recente do CodeLens, mostrando o autor e a data do commit mais recente para o arquivo ou bloco de código
   "gitlens.codeLens.recentChange.enabled": false,
 
+  // Especifica se deve fornecer um CodeLens de autores, mostrando o número de autores do arquivo ou bloco de código e o autor mais proeminente (se houver mais de um)
   "gitlens.codeLens.authors.enabled": false,
 
+  // Especifica quais mensagens devem ser suprimidas
   "gitlens.advanced.messages": {
+    // Avisa de tempo limite de solicitação de integração
     "suppressIntegrationRequestTimedOutWarning": true
   },
-  "terminal.integrated.env.windows": {}
+
+  // Confirma antes de sincronizar os repositórios Git
+  "git.confirmSync": false,
+
+  // Desabilita a solicitação de confirmação ao colar arquivos e pastas nativos
+  "explorer.confirmPasteNative": false
 }

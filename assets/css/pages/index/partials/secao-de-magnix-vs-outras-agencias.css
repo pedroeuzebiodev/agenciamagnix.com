@@ -1,0 +1,160 @@
+#secao-de-magnix-vs-outras-agencias {
+  position: relative;
+}
+
+#secao-de-magnix-vs-outras-agencias #caixa-de-selecao-verde,
+#secao-de-magnix-vs-outras-agencias #caixa-de-selecao-vermelha {
+  position: absolute;
+  z-index: -1;
+
+  width: 100%;
+  max-width: 25.6rem;
+}
+
+#secao-de-magnix-vs-outras-agencias #caixa-de-selecao-verde {
+  top: 24%;
+  left: 0;
+}
+
+#secao-de-magnix-vs-outras-agencias #caixa-de-selecao-vermelha {
+  top: 64%;
+  right: 0;
+}
+
+#secao-de-magnix-vs-outras-agencias h2,
+#secao-de-magnix-vs-outras-agencias h2 span {
+  font-size: 2.4rem;
+  font-weight: 600;
+
+  line-height: 3rem;
+}
+
+#secao-de-magnix-vs-outras-agencias h2 {
+  text-transform: uppercase;
+  text-align: center;
+
+  margin-bottom: 4.8rem;
+
+  color: var(--cor-de-texto);
+}
+
+#secao-de-magnix-vs-outras-agencias h2 span {
+  background-image: var(--cor-primaria);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+}
+
+#secao-de-magnix-vs-outras-agencias
+  #conteudo-da-secao-de-magnix-vs-outras-agencias {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4.8rem;
+  justify-content: center;
+
+  overflow: hidden;
+}
+
+#secao-de-magnix-vs-outras-agencias #magnix,
+#secao-de-magnix-vs-outras-agencias #outras-agencias {
+  background: var(--cor-de-fundo-transparente);
+
+  padding: 2.4rem 1.2rem;
+
+  border-radius: 0.8rem;
+
+  width: 100%;
+  max-width: 51.2rem;
+}
+
+#secao-de-magnix-vs-outras-agencias h3 {
+  font-size: 2rem;
+  font-size: 500;
+
+  line-height: 2.4rem;
+
+  background-image: var(--cor-primaria);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+
+  text-align: center;
+
+  margin-bottom: 2.4rem;
+}
+
+#secao-de-magnix-vs-outras-agencias #conteudo-da-magnix,
+#secao-de-magnix-vs-outras-agencias #conteudo-de-outras-agencias {
+  display: flex;
+  flex-direction: column;
+  gap: 4.8rem;
+}
+
+#secao-de-magnix-vs-outras-agencias .textos-do-conteudo-da-magnix,
+#secao-de-magnix-vs-outras-agencias .textos-do-conteudo-de-outras-agencias {
+  display: flex;
+  gap: 0.8rem;
+}
+
+#secao-de-magnix-vs-outras-agencias h4 {
+  font-size: 1.8rem;
+  font-weight: 500;
+
+  line-height: 2rem;
+
+  background-image: var(--cor-primaria);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+}
+
+#secao-de-magnix-vs-outras-agencias p {
+  color: var(--cor-de-texto);
+
+  line-height: 1.8rem;
+}
+
+@media (width >= 76.8rem) {
+  #secao-de-magnix-vs-outras-agencias h2,
+  #secao-de-magnix-vs-outras-agencias h2 span {
+    font-size: 3rem;
+
+    line-height: 3.6rem;
+  }
+
+  #secao-de-magnix-vs-outras-agencias h3 {
+    font-size: 2.4rem;
+
+    line-height: 3rem;
+  }
+
+  #secao-de-magnix-vs-outras-agencias h4 {
+    font-size: 2rem;
+
+    line-height: 2.4rem;
+  }
+
+  #secao-de-magnix-vs-outras-agencias p {
+    font-size: 1.8rem;
+
+    line-height: 2rem;
+  }
+}
+
+@media (width >= 1280px) {
+  #secao-de-magnix-vs-outras-agencias #caixa-de-selecao-verde,
+  #secao-de-magnix-vs-outras-agencias #caixa-de-selecao-vermelha {
+    top: 25.6rem;
+  }
+
+  #secao-de-magnix-vs-outras-agencias #caixa-de-selecao-verde {
+    left: 0;
+  }
+
+  #secao-de-magnix-vs-outras-agencias #caixa-de-selecao-vermelha {
+    right: 0;
+  }
+}

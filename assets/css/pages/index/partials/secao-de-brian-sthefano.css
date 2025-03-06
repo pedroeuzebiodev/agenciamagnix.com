@@ -1,0 +1,84 @@
+#secao-de-brian-sthefano {
+  position: relative;
+}
+
+#secao-de-brian-sthefano #g-branco-da-secao-de-brian-sthefano {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+
+  width: 100%;
+  max-width: 51.2rem;
+  height: 57.6rem;
+}
+
+#secao-de-brian-sthefano #conteudo-da-secao-de-brian-sthefano {
+  display: flex;
+  flex-direction: column;
+
+  overflow: hidden;
+}
+
+#secao-de-brian-sthefano h2 {
+  font-size: 2.4rem;
+  font-weight: 600;
+
+  line-height: 3rem;
+
+  background-image: var(--cor-primaria);
+  background-clip: text;
+  -webkit-background-clip: text;
+
+  color: transparent;
+}
+
+#secao-de-brian-sthefano h3 {
+  font-size: 2rem;
+  font-weight: 500;
+
+  line-height: 2.4rem;
+
+  color: var(--cor-de-texto);
+
+  margin: 2.4rem 0;
+}
+
+#secao-de-brian-sthefano p {
+  font-size: 1.8rem;
+
+  line-height: 2rem;
+
+  color: var(--cor-de-texto);
+}
+
+#secao-de-brian-sthefano #foto-de-brian-sthefano {
+  width: 100%;
+  max-width: 57.6rem;
+
+  margin: auto;
+}
+
+@media (width >= 76.8rem) {
+  #secao-de-brian-sthefano #conteudo-da-secao-de-brian-sthefano {
+    flex-direction: row;
+  }
+
+  #secao-de-brian-sthefano h2 {
+    font-size: 3rem;
+
+    line-height: 3.6rem;
+  }
+
+  #secao-de-brian-sthefano h3 {
+    font-size: 2.4rem;
+
+    line-height: 3rem;
+  }
+
+  #secao-de-brian-sthefano p {
+    font-size: 2rem;
+
+    line-height: 2.4rem;
+  }
+}

@@ -2,7 +2,7 @@
   padding-bottom: 8rem;
 }
 
-#secao-de-contato #caixa-de-contato {
+#secao-de-contato #conteudo-da-secao-de-contato {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -10,12 +10,12 @@
   gap: 4.8rem;
 }
 
-#secao-de-contato #caixa-de-contato img {
+#secao-de-contato img {
   width: 100%;
   max-width: 76.8rem;
 }
 
-#secao-de-contato #caixa-de-contato a {
+#secao-de-contato a {
   border-radius: 999.9rem;
 
   padding: 1.2rem 2.4rem;
@@ -24,7 +24,7 @@
 
   color: var(--cor-de-texto);
 
-  font-size: 2.4rem;
+  font-size: 1.8rem;
 
   line-height: 3rem;
 
@@ -33,12 +33,16 @@
   text-decoration: none;
 
   text-transform: uppercase;
+
+  display: inline-block;
+
+  text-align: center;
 }
 
-@media (max-width: 768px) {
-  #secao-de-contato #caixa-de-contato a {
-    font-size: 1.4rem;
+@media (width >= 76.8rem) {
+  #secao-de-contato a {
+    font-size: 2rem;
 
-    line-height: 1.6rem;
+    line-height: 2.4rem;
   }
 }

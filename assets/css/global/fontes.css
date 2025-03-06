@@ -1,5 +1,8 @@
+:root {
+  font-size: 62.5%;
+}
+
 body * {
   font-size: 1.6rem;
-  font-weight: 400;
   font-family: "Inter", serif;
 }

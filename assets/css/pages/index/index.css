@@ -1,12 +1,12 @@
 @import url(../../global/global.css);
 
+@import url(./partials/carrossel-de-elementos-da-magnix.css);
 @import url(./partials/g-branco.css);
 @import url(./partials/header.css);
-@import url(./partials/linha-entre-secoes.css);
+@import url(./partials/secao-de-brian-sthefano.css);
 @import url(./partials/secao-de-clientes.css);
-@import url(./partials/secao-de-comparacao.css);
 @import url(./partials/secao-de-contato.css);
 @import url(./partials/secao-de-inicio.css);
+@import url(./partials/secao-de-magnix-vs-outras-agencias.css);
 @import url(./partials/secao-de-ofertas.css);
 @import url(./partials/secao-de-publico-alvo.css);
-@import url(./partials/secao-de-sobre.css);
