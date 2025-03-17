@@ -1,5 +1,7 @@
 #secao-de-publico-alvo {
   position: relative;
+
+  overflow: hidden;
 }
 
 #secao-de-publico-alvo #bola-roxa,
@@ -65,8 +67,6 @@
   align-items: center;
   flex-wrap: wrap;
   gap: 4.8rem;
-
-  overflow: hidden;
 }
 
 #secao-de-publico-alvo img {
@@ -98,7 +98,7 @@
   color: transparent;
 
   font-size: 2rem;
-  font-weight: 500;
+  font-weight: 600;
 
   line-height: 2.4rem;
 }
@@ -113,7 +113,9 @@
 #secao-de-publico-alvo p {
   color: var(--cor-de-texto);
 
-  line-height: 1.8rem;
+  line-height: 2.4rem;
+
+  font-weight: 500;
 }
 
 @media (width >= 768px) {
@@ -136,7 +138,5 @@
 
   #secao-de-publico-alvo p {
     font-size: 1.8rem;
-
-    line-height: 2rem;
   }
 }
