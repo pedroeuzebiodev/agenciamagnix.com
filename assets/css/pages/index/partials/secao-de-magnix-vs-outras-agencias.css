@@ -1,5 +1,7 @@
 #secao-de-magnix-vs-outras-agencias {
   position: relative;
+
+  overflow: hidden;
 }
 
 #secao-de-magnix-vs-outras-agencias #caixa-de-selecao-verde,
@@ -52,8 +54,6 @@
   flex-wrap: wrap;
   gap: 4.8rem;
   justify-content: center;
-
-  overflow: hidden;
 }
 
 #secao-de-magnix-vs-outras-agencias #magnix,
@@ -66,11 +66,13 @@
 
   width: 100%;
   max-width: 51.2rem;
+
+  box-shadow: 0.4rem 0.4rem 0.8rem rgb(12, 12, 12, 0.4);
 }
 
 #secao-de-magnix-vs-outras-agencias h3 {
   font-size: 2rem;
-  font-size: 500;
+  font-size: 600;
 
   line-height: 2.4rem;
 
@@ -89,7 +91,7 @@
 #secao-de-magnix-vs-outras-agencias #conteudo-de-outras-agencias {
   display: flex;
   flex-direction: column;
-  gap: 4.8rem;
+  gap: 2.4rem;
 }
 
 #secao-de-magnix-vs-outras-agencias .textos-do-conteudo-da-magnix,
@@ -100,7 +102,7 @@
 
 #secao-de-magnix-vs-outras-agencias h4 {
   font-size: 1.8rem;
-  font-weight: 500;
+  font-weight: 600;
 
   line-height: 2rem;
 
@@ -114,7 +116,9 @@
 #secao-de-magnix-vs-outras-agencias p {
   color: var(--cor-de-texto);
 
-  line-height: 1.8rem;
+  line-height: 2.4rem;
+
+  font-weight: 500;
 }
 
 @media (width >= 76.8rem) {
@@ -139,8 +143,6 @@
 
   #secao-de-magnix-vs-outras-agencias p {
     font-size: 1.8rem;
-
-    line-height: 2rem;
   }
 }
 
