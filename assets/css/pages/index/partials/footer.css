@@ -10,15 +10,15 @@ footer {
 footer p {
   color: var(--cor-de-texto);
 
-  line-height: 1.8rem;
+  line-height: 2.4rem;
 
   text-align: center;
+
+  font-weight: 500;
 }
 
 @media (width >= 76.8rem) {
   footer p {
     font-size: 1.8rem;
-
-    line-height: 2rem;
   }
 }
