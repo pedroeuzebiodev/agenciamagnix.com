@@ -60,7 +60,7 @@
 
 #secao-de-ofertas h3 {
   font-size: 2rem;
-  font-weight: 500;
+  font-weight: 600;
 
   line-height: 2.4rem;
 
@@ -79,13 +79,17 @@
 
   padding: 2.4rem 1.2rem;
 
-  border-radius: 2.4rem;
+  border-radius: 2rem;
 
   height: 28.8rem;
+
+  box-shadow: 0.4rem 0.4rem 0.8rem rgb(12, 12, 12, 0.4);
 }
 
 #secao-de-ofertas p {
-  line-height: 1.8rem;
+  line-height: 2.4rem;
+
+  font-weight: 500;
 
   color: var(--cor-secundaria);
 }
@@ -105,7 +109,5 @@
 
   #secao-de-ofertas p {
     font-size: 1.8rem;
-
-    line-height: 2rem;
   }
 }
