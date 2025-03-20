@@ -23,7 +23,7 @@
 </h1>
 
 <h4 align="center">
- 🚧  Magnix | Portfólio 💜 Concluído 🚀 🚧
+ 🚧  Magnix | Agência de Marketing 💜 Concluído 🚀 🚧
 </h4>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 ## 💻 Sobre o projeto
 
-💜 Magnix | Portfólio - é uma vitrine da agência de marketing para que você invista em gestão profissional e conquiste os resultados que sempre quis: mais alcance, mais engajamento e mais vendas para o seu negócio!
+💜 MMagnix | Agência de Marketing - é uma vitrine da agência de marketing para que você invista em gestão profissional e conquiste os resultados que sempre quis: mais alcance, mais engajamento e mais vendas para o seu negócio!
 
 ---
 
@@ -53,13 +53,13 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="Agência Magnix | Portfólio" title="Agência Magnix | Portfólio" src="./.github/preview-mobile.png" width="200px">
+  <img alt="Magnix | Agência de Marketing" title="Magnix | Agência de Marketing" src="./.github/preview-mobile.png" width="200px">
 </p>
 
 ### Web
 
 <p align="center">
-  <img alt="Agência Magnix | Portfólio" title="Agência Magnix | Portfólio" src="./.github/preview-web.png" width="400px">
+  <img alt="Magnix | Agência de Marketing" title="Magnix | Agência de Marketing" src="./.github/preview-web.png" width="400px">
 </p>
 
 ---
