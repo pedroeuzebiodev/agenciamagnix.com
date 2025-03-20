@@ -38,7 +38,7 @@
 
 ## 💻 Sobre o projeto
 
-💜 MMagnix | Agência de Marketing - é uma vitrine da agência de marketing para que você invista em gestão profissional e conquiste os resultados que sempre quis: mais alcance, mais engajamento e mais vendas para o seu negócio!
+💜 Magnix | Agência de Marketing - é uma vitrine da agência de marketing para que você invista em gestão profissional e conquiste os resultados que sempre quis: mais alcance, mais engajamento e mais vendas para o seu negócio!
 
 ---
 
