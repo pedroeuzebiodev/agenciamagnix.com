@@ -121,7 +121,7 @@
   font-weight: 500;
 }
 
-@media (width >= 76.8rem) {
+@media (width >= 768px) {
   #secao-de-magnix-vs-outras-agencias h2,
   #secao-de-magnix-vs-outras-agencias h2 span {
     font-size: 3rem;
