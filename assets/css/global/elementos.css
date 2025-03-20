@@ -1,15 +1,25 @@
+:root {
+  font-size: 62.5%;
+}
+
 html {
   scroll-behavior: smooth;
 }
 
 body {
   background: var(--cor-de-fundo) no-repeat;
+
   min-height: 100vh;
+}
+
+body * {
+  font-size: 1.6rem;
 }
 
 .max-width {
   width: 100%;
   max-width: 128rem;
+
   margin: auto;
   padding: 0 3rem;
 }
