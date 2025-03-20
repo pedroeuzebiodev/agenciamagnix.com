@@ -11,13 +11,14 @@
   z-index: -1;
 
   width: 100%;
-  max-width: 51.2rem;
-  height: 57.6rem;
+  max-width: 32.8rem;
 }
 
 #secao-de-brian-sthefano #conteudo-da-secao-de-brian-sthefano {
   display: flex;
   flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 #secao-de-brian-sthefano h2 {
@@ -56,11 +57,9 @@
 #secao-de-brian-sthefano #foto-de-brian-sthefano {
   width: 100%;
   max-width: 57.6rem;
-
-  margin: auto;
 }
 
-@media (width >= 76.8rem) {
+@media (width >= 768px) {
   #secao-de-brian-sthefano h2 {
     font-size: 3rem;
 
