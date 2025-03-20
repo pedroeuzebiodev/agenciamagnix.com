@@ -35,7 +35,7 @@
   text-align: center;
 }
 
-@media (width >= 76.8rem) {
+@media (width >= 768px) {
   #secao-de-contato a {
     font-size: 2rem;
 
