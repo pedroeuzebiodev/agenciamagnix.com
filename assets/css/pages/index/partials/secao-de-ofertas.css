@@ -83,7 +83,7 @@
 
   height: 28.8rem;
 
-  box-shadow: 0.4rem 0.4rem 0.8rem rgb(12, 12, 12, 0.4);
+  box-shadow: 0.4rem 0.4rem 0.8rem rgb(12, 12, 12, 0.6);
 }
 
 #secao-de-ofertas p {
@@ -94,7 +94,7 @@
   color: var(--cor-secundaria);
 }
 
-@media (width >= 76.8rem) {
+@media (width >= 768px) {
   #secao-de-ofertas h2 {
     font-size: 3rem;
 
