@@ -23,7 +23,7 @@
 </h1>
 
 <h4 align="center">
- 🚧  Agência Magnix | Portfólio 💜 Concluído 🚀 🚧
+ 🚧  Magnix | Portfólio 💜 Concluído 🚀 🚧
 </h4>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 ## 💻 Sobre o projeto
 
-💜 Agência Magnix | Portfólio - é uma vitrine da agência de marketing para que você invista em gestão profissional e conquiste os resultados que sempre quis: mais alcance, mais engajamento e mais vendas para o seu negócio!
+💜 Magnix | Portfólio - é uma vitrine da agência de marketing para que você invista em gestão profissional e conquiste os resultados que sempre quis: mais alcance, mais engajamento e mais vendas para o seu negócio!
 
 ---
 
@@ -100,7 +100,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Utilitários**
 
-- Protótipo: **[Figma](https://www.figma.com/)** → **[Protótipo (Portfólio da Agência Magnix)](https://www.figma.com/design/FfB9vGc6l0xiU6wdFlVVFg/Portf%C3%B3lio-da-Ag%C3%AAncia-Magnix?node-id=0-1&t=No4Bs95OYXbDjsnp-1)**
+- Protótipo: **[Figma](https://www.figma.com/)** → **[Protótipo (Portfólio da Magnix)](https://www.figma.com/design/FfB9vGc6l0xiU6wdFlVVFg/Portf%C3%B3lio-da-Ag%C3%AAncia-Magnix?node-id=0-1&t=No4Bs95OYXbDjsnp-1)**
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
 - Markdown: **[StackEdit](https://stackedit.io/)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 - Commit Conventional: **[Commitlint](https://github.com/conventional-changelog/commitlint)**
