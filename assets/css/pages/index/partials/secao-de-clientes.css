@@ -48,7 +48,7 @@
   object-fit: contain;
 }
 
-@media (width >= 76.8rem) {
+@media (width >= 768px) {
   #secao-de-clientes h2 {
     font-size: 3rem;
 
