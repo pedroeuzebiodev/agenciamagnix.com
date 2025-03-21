@@ -1,10 +1,10 @@
 footer {
   width: 100%;
 
-  background: var(--cor-primaria);
+  padding: 2.4rem 3rem;
+  margin-top: 0.8rem;
 
-  padding: 2.4rem;
-  margin-top: 4.8rem;
+  background: var(--cor-primaria);
 }
 
 footer #conteudo-do-footer {
@@ -25,17 +25,19 @@ footer p {
   text-align: center;
 }
 
-footer #icones-de-redes-sociais-do-footer {
+footer #icones-de-redes-sociais {
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 2.4rem;
 }
 
+footer a {
+  color: var(--cor-de-texto);
+}
+
 footer .icone-de-rede-social {
   font-size: 2.4rem;
-
-  color: var(--cor-de-texto);
 }
 
 @media (width >= 768px) {

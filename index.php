@@ -1706,7 +1706,7 @@
       <div id="conteudo-do-footer">
         <p>Magnix © 2025 - Todos os direitos reservados</p>
 
-        <div id="icones-de-redes-sociais-do-footer">
+        <div id="icones-de-redes-sociais">
           <a
             href="https://www.facebook.com/people/Magnix/61571115934380"
             target="_blank"
@@ -1716,18 +1716,21 @@
               class="icone-de-rede-social"
             ></ion-icon>
           </a>
+
           <a href="https://www.instagram.com/agenciamagnix" target="_blank">
             <ion-icon
               name="logo-instagram"
               class="icone-de-rede-social"
             ></ion-icon>
           </a>
+
           <a href="https://www.tiktok.com/@agenciamagnix" target="_blank">
             <ion-icon
               name="logo-tiktok"
               class="icone-de-rede-social"
             ></ion-icon>
           </a>
+
           <a
             href="https://www.linkedin.com/company/agenciamagnix"
             target="_blank"
@@ -1737,6 +1740,7 @@
               class="icone-de-rede-social"
             ></ion-icon>
           </a>
+
           <a href="#" target="_blank">
             <ion-icon
               name="logo-youtube"
