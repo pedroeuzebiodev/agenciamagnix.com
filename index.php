@@ -66,9 +66,9 @@
     <header>
       <div class="max-width">
         <img
-          src="./assets/images/logo-da-magnix.png"
+          src="./assets/images/logo-da-magnix-agencia-de-marketing.png"
           alt="Logo da Magnix | Agência de Marketing"
-          id="logo-da-magnix"
+          id="logo-da-magnix-agencia-de-marketing"
         />
       </div>
     </header>
