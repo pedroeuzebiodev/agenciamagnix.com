@@ -50,7 +50,7 @@
     />
     <link
       rel="shortcut icon"
-      href="./assets/favicons/magnix-favicon.jpeg"
+      href="./assets/favicons/favicon.jpeg"
       type="image/jpeg"
     />
     <link rel="stylesheet" href="./assets/css/pages/index/index.css" />
