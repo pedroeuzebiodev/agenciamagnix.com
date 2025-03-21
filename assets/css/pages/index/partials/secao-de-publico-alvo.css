@@ -4,14 +4,16 @@
   overflow: hidden;
 }
 
+#secao-de-publico-alvo img {
+  width: 100%;
+}
+
 #secao-de-publico-alvo #bola-roxa,
 #secao-de-publico-alvo #bolinhas-roxa,
 #secao-de-publico-alvo #g-branco-da-secao-de-publico-alvo {
   position: absolute;
   z-index: -1;
   top: 0;
-
-  width: 100%;
 }
 
 #secao-de-publico-alvo #bolinhas-roxa,
@@ -59,7 +61,7 @@
   color: transparent;
 }
 
-#secao-de-publico-alvo #conteudo-da-secao-de-publicos-alvo {
+#secao-de-publico-alvo #conteudo-da-secao-de-publico-alvo {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -67,8 +69,7 @@
   gap: 4.8rem;
 }
 
-#secao-de-publico-alvo img {
-  width: 100%;
+#secao-de-publico-alvo #imagem-da-secao-de-publico-alvo {
   max-width: 51.2rem;
 }
 

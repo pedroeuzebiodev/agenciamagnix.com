@@ -640,7 +640,7 @@
             A <span>agência magnix é</span> para…
           </h2>
 
-          <div id="conteudo-da-secao-de-publicos-alvo">
+          <div id="conteudo-da-secao-de-publico-alvo">
             <img
               src="./assets/images/imagem-da-secao-de-publico-alvo.png"
               alt="Imagem da Seção de Público Alvo"
@@ -648,6 +648,7 @@
               data-aos-offset="300"
               data-aos-easing="ease-in-sine"
               data-aos-duration="800"
+              id="imagem-da-secao-de-publico-alvo"
             />
 
             <div
