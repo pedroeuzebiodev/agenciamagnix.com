@@ -6,7 +6,7 @@
   gap: 4.8rem;
 }
 
-#secao-de-contato img {
+#secao-de-contato #imagem-da-secao-de-contato {
   width: 100%;
   max-width: 76.8rem;
 }

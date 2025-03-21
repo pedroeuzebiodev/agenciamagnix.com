@@ -1686,6 +1686,7 @@
               alt="Imagem da Seção de Contato"
               data-aos="fade-right"
               data-aos-duration="1000"
+              id="imagem-da-secao-de-contato"
             />
 
             <a
