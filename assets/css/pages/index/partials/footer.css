@@ -7,7 +7,7 @@ footer {
   margin-top: 4.8rem;
 }
 
-#conteudo-do-footer {
+footer #conteudo-do-footer {
   display: flex;
   flex-direction: column-reverse;
   align-items: center;
@@ -39,7 +39,7 @@ footer .icone-de-rede-social {
 }
 
 @media (width >= 768px) {
-  #conteudo-do-footer {
+  footer #conteudo-do-footer {
     flex-direction: row;
     justify-content: space-between;
     gap: 0;
