@@ -102,9 +102,11 @@
         </div>
       </section>
 
-      <div class="carrossel-de-elementos-da-magnix">
+      <div class="carrossel-de-elementos-da-magnix-agencia-de-marketing">
         <div class="max-width">
-          <div class="conteudo-do-carrossel-de-elementos-da-magnix">
+          <div
+            class="conteudo-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
+          >
             <img
               src="./assets/images/engrenagem.png"
               alt="Engrenagem"
@@ -112,9 +114,9 @@
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
-              class="texto-1-do-carrossel-de-elementos-da-magnix"
+              class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -124,9 +126,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -136,9 +138,9 @@
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-2-do-carrossel-de-elementos-da-magnix"
+              class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -148,9 +150,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -160,9 +162,9 @@
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-3-do-carrossel-de-elementos-da-magnix"
+              class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -172,9 +174,9 @@
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
-              class="texto-1-do-carrossel-de-elementos-da-magnix"
+              class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -184,9 +186,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -196,9 +198,9 @@
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-2-do-carrossel-de-elementos-da-magnix"
+              class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -208,9 +210,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -220,9 +222,9 @@
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-3-do-carrossel-de-elementos-da-magnix"
+              class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -232,9 +234,9 @@
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
-              class="texto-1-do-carrossel-de-elementos-da-magnix"
+              class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -244,9 +246,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -256,9 +258,9 @@
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-2-do-carrossel-de-elementos-da-magnix"
+              class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -268,9 +270,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -280,9 +282,9 @@
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-3-do-carrossel-de-elementos-da-magnix"
+              class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
           </div>
         </div>
@@ -426,9 +428,11 @@
         </div>
       </section>
 
-      <div class="carrossel-de-elementos-da-magnix">
+      <div class="carrossel-de-elementos-da-magnix-agencia-de-marketing">
         <div class="max-width">
-          <div class="conteudo-do-carrossel-de-elementos-da-magnix">
+          <div
+            class="conteudo-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
+          >
             <img
               src="./assets/images/engrenagem.png"
               alt="Engrenagem"
@@ -436,9 +440,9 @@
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
-              class="texto-1-do-carrossel-de-elementos-da-magnix"
+              class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -448,9 +452,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -460,9 +464,9 @@
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-2-do-carrossel-de-elementos-da-magnix"
+              class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -472,9 +476,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -484,9 +488,9 @@
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-3-do-carrossel-de-elementos-da-magnix"
+              class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -496,9 +500,9 @@
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
-              class="texto-1-do-carrossel-de-elementos-da-magnix"
+              class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -508,9 +512,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -520,9 +524,9 @@
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-2-do-carrossel-de-elementos-da-magnix"
+              class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -532,9 +536,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -544,9 +548,9 @@
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-3-do-carrossel-de-elementos-da-magnix"
+              class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -556,9 +560,9 @@
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
-              class="texto-1-do-carrossel-de-elementos-da-magnix"
+              class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -568,9 +572,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -580,9 +584,9 @@
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-2-do-carrossel-de-elementos-da-magnix"
+              class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -592,9 +596,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -604,9 +608,9 @@
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-3-do-carrossel-de-elementos-da-magnix"
+              class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
           </div>
         </div>
@@ -711,9 +715,11 @@
         </div>
       </section>
 
-      <div class="carrossel-de-elementos-da-magnix">
+      <div class="carrossel-de-elementos-da-magnix-agencia-de-marketing">
         <div class="max-width">
-          <div class="conteudo-do-carrossel-de-elementos-da-magnix">
+          <div
+            class="conteudo-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
+          >
             <img
               src="./assets/images/engrenagem.png"
               alt="Engrenagem"
@@ -721,9 +727,9 @@
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
-              class="texto-1-do-carrossel-de-elementos-da-magnix"
+              class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -733,9 +739,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -745,9 +751,9 @@
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-2-do-carrossel-de-elementos-da-magnix"
+              class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -757,9 +763,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -769,9 +775,9 @@
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-3-do-carrossel-de-elementos-da-magnix"
+              class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -781,9 +787,9 @@
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
-              class="texto-1-do-carrossel-de-elementos-da-magnix"
+              class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -793,9 +799,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -805,9 +811,9 @@
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-2-do-carrossel-de-elementos-da-magnix"
+              class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -817,9 +823,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -829,9 +835,9 @@
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-3-do-carrossel-de-elementos-da-magnix"
+              class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -841,9 +847,9 @@
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
-              class="texto-1-do-carrossel-de-elementos-da-magnix"
+              class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -853,9 +859,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -865,9 +871,9 @@
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-2-do-carrossel-de-elementos-da-magnix"
+              class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -877,9 +883,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -889,9 +895,9 @@
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-3-do-carrossel-de-elementos-da-magnix"
+              class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
           </div>
         </div>
@@ -1045,9 +1051,11 @@
         </div>
       </section>
 
-      <div class="carrossel-de-elementos-da-magnix">
+      <div class="carrossel-de-elementos-da-magnix-agencia-de-marketing">
         <div class="max-width">
-          <div class="conteudo-do-carrossel-de-elementos-da-magnix">
+          <div
+            class="conteudo-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
+          >
             <img
               src="./assets/images/engrenagem.png"
               alt="Engrenagem"
@@ -1055,9 +1063,9 @@
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
-              class="texto-1-do-carrossel-de-elementos-da-magnix"
+              class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -1067,9 +1075,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -1079,9 +1087,9 @@
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-2-do-carrossel-de-elementos-da-magnix"
+              class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -1091,9 +1099,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -1103,9 +1111,9 @@
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-3-do-carrossel-de-elementos-da-magnix"
+              class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -1115,9 +1123,9 @@
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
-              class="texto-1-do-carrossel-de-elementos-da-magnix"
+              class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -1127,9 +1135,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -1139,9 +1147,9 @@
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-2-do-carrossel-de-elementos-da-magnix"
+              class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -1151,9 +1159,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -1163,9 +1171,9 @@
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-3-do-carrossel-de-elementos-da-magnix"
+              class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -1175,9 +1183,9 @@
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
-              class="texto-1-do-carrossel-de-elementos-da-magnix"
+              class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -1187,9 +1195,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -1199,9 +1207,9 @@
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-2-do-carrossel-de-elementos-da-magnix"
+              class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -1211,9 +1219,9 @@
             />
 
             <img
-              src="./assets/images/logo-da-magnix-branca.png"
-              alt="Logo da Magnix Branca"
-              class="logo-da-magnix-branca"
+              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              alt="Logo Branca da Magnix | Agência de Marketing"
+              class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
@@ -1223,9 +1231,9 @@
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix.png"
+              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
-              class="texto-3-do-carrossel-de-elementos-da-magnix"
+              class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
           </div>
         </div>
