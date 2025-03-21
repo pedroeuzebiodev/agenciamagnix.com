@@ -17,7 +17,10 @@
     <meta name="referrer" content="no-referrer-when-downgrade" />
     <meta name="google" content="notranslate" />
 
-    <meta property="og:title" content="Portfólio da Magnix" />
+    <meta
+      property="og:title"
+      content="Website da Magnix | Agência de Marketing"
+    />
     <meta
       property="og:description"
       content="Invista em gestão profissional e conquiste os resultados que sempre quis: mais alcance, mais engajamento e mais vendas para o seu negócio!"
@@ -25,13 +28,10 @@
     <meta property="og:locale" content="pt_BR" />
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Magnix | Agência de Marketing" />
-    <meta
-      property="og:image"
-      content="https://i.postimg.cc/651yHdDQ/preview-web.png"
-    />
+    <meta property="og:image" content="https://i.imgur.com/1RiC5KY.png" />
     <meta
       property="og:image:secure_url"
-      content="https://i.postimg.cc/651yHdDQ/preview-web.png"
+      content="https://i.imgur.com/1RiC5KY.png"
     />
     <meta property="og:image:alt" content="Thumbnail" />
     <meta property="og:image:type" content="image/png" />
