@@ -50,15 +50,15 @@
     />
     <link
       rel="shortcut icon"
-      href="./assets/favicons/favicon.jpeg"
+      href="/assets/favicons/favicon.jpeg"
       type="image/jpeg"
     />
-    <link rel="stylesheet" href="./assets/css/pages/index/index.css" />
+    <link rel="stylesheet" href="/assets/css/pages/index/index.css" />
   </head>
 
   <body>
     <img
-      src="./assets/images/g-branco.png"
+      src="/assets/images/g-branco.png"
       alt="Letra G Maiúscula de Cor Branca"
       id="g-branco"
     />
@@ -66,7 +66,7 @@
     <header>
       <div class="max-width">
         <img
-          src="./assets/images/logo-da-magnix-agencia-de-marketing.png"
+          src="/assets/images/logo-da-magnix-agencia-de-marketing.png"
           alt="Logo da Magnix | Agência de Marketing"
           id="logo-da-magnix-agencia-de-marketing"
         />
@@ -94,7 +94,7 @@
             </div>
 
             <img
-              src="./assets/images/insights.png"
+              src="/assets/images/insights.png"
               alt="Insights"
               id="insights"
             />
@@ -108,181 +108,181 @@
             class="conteudo-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
           >
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
@@ -292,13 +292,13 @@
 
       <section id="secao-de-ofertas">
         <img
-          src="./assets/images/g-branco-1-da-secao-de-ofertas.png"
+          src="/assets/images/g-branco-1-da-secao-de-ofertas.png"
           alt="Letra G Maiúscula 1 de Cor Branca da Seção de Ofertas"
           id="g-branco-1-da-secao-de-ofertas"
         />
 
         <img
-          src="./assets/images/g-branco-2-da-secao-de-ofertas.png"
+          src="/assets/images/g-branco-2-da-secao-de-ofertas.png"
           alt="Letra G Maiúscula 2 de Cor Branca da Seção de Ofertas"
           id="g-branco-2-da-secao-de-ofertas"
         />
@@ -318,7 +318,7 @@
               <h3>Gestão de redes sociais</h3>
 
               <img
-                src="./assets/images/imagem-de-uma-mao-segurando-um-smartphone-com-as-redes-sociais-1.png"
+                src="/assets/images/imagem-de-uma-mao-segurando-um-smartphone-com-as-redes-sociais-1.png"
                 alt="Imagem de Uma Mão Segurando um Smartphone Com as Redes Sociais 1"
               />
 
@@ -341,7 +341,7 @@
               <h3>Identidade visual</h3>
 
               <img
-                src="./assets/images/imagem-de-um-olho-com-um-lapis.png"
+                src="/assets/images/imagem-de-um-olho-com-um-lapis.png"
                 alt="Imagem de um Olho Com um Lápis"
               />
 
@@ -365,7 +365,7 @@
               <h3>Produção gráfica</h3>
 
               <img
-                src="./assets/images/imagem-de-um-desktop.png"
+                src="/assets/images/imagem-de-um-desktop.png"
                 alt="Imagem de um Desktop"
               />
 
@@ -388,7 +388,7 @@
               <h3>Gestão de tráfego pago</h3>
 
               <img
-                src="./assets/images/imagem-de-uma-moeda-com-o-cursor-do-mouse.png"
+                src="/assets/images/imagem-de-uma-moeda-com-o-cursor-do-mouse.png"
                 alt="Imagem de Uma Moeda Com o Cursor do Mouse"
               />
 
@@ -412,7 +412,7 @@
               <h3>Criação de landing pages</h3>
 
               <img
-                src="./assets/images/imagem-de-uma-mao-segurando-um-smartphone-com-as-redes-sociais-2.png"
+                src="/assets/images/imagem-de-uma-mao-segurando-um-smartphone-com-as-redes-sociais-2.png"
                 alt="Imagem de Uma Mão Segurando um Smartphone com as Redes Sociais 2"
               />
 
@@ -434,181 +434,181 @@
             class="conteudo-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
           >
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
@@ -618,19 +618,19 @@
 
       <section id="secao-de-publico-alvo">
         <img
-          src="./assets/images/bola-roxa.png"
+          src="/assets/images/bola-roxa.png"
           alt="Bola Roxa"
           id="bola-roxa"
         />
 
         <img
-          src="./assets/images/bolinhas-roxa.png"
+          src="/assets/images/bolinhas-roxa.png"
           alt="Bolinhas Roxa"
           id="bolinhas-roxa"
         />
 
         <img
-          src="./assets/images/g-branco-da-secao-de-publico-alvo.png"
+          src="/assets/images/g-branco-da-secao-de-publico-alvo.png"
           alt="Letra G Maiúscula de Cor Branca da Seção de Público Alvo"
           id="g-branco-da-secao-de-publico-alvo"
         />
@@ -642,7 +642,7 @@
 
           <div id="conteudo-da-secao-de-publico-alvo">
             <img
-              src="./assets/images/imagem-da-secao-de-publico-alvo.png"
+              src="/assets/images/imagem-da-secao-de-publico-alvo.png"
               alt="Imagem da Seção de Público Alvo"
               data-aos="fade-right"
               data-aos-offset="300"
@@ -722,181 +722,181 @@
             class="conteudo-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
           >
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
@@ -906,13 +906,13 @@
 
       <section id="secao-de-magnix-vs-outras-agencias">
         <img
-          src="./assets/images/caixa-de-selecao-verde.png"
+          src="/assets/images/caixa-de-selecao-verde.png"
           alt="Caixa de Seleção Verde"
           id="caixa-de-selecao-verde"
         />
 
         <img
-          src="./assets/images/caixa-de-selecao-vermelha.png"
+          src="/assets/images/caixa-de-selecao-vermelha.png"
           alt="Caixa de Seleção Vermelha"
           id="caixa-de-selecao-vermelha"
         />
@@ -1058,181 +1058,181 @@
             class="conteudo-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
           >
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Alcance o próximo nível"
               class="texto-1-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-2-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/logo-branca-da-magnix-agencia-de-marketing.png"
               alt="Logo Branca da Magnix | Agência de Marketing"
               class="logo-branca-da-magnix-agencia-de-marketing"
             />
 
             <img
-              src="./assets/images/engrenagem.png"
+              src="/assets/images/engrenagem.png"
               alt="Engrenagem"
               class="engrenagem"
             />
 
             <img
-              src="./assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
+              src="/assets/images/texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing.png"
               alt="Investir certo é crescer sempre"
               class="texto-3-do-carrossel-de-elementos-da-magnix-agencia-de-marketing"
             />
@@ -1242,7 +1242,7 @@
 
       <section id="secao-de-brian-sthefano">
         <img
-          src="./assets/images/g-branco-da-secao-de-brian-sthefano.png"
+          src="/assets/images/g-branco-da-secao-de-brian-sthefano.png"
           alt="Letra G Maiúscula de Cor Branca da Seção de Brian Sthefano"
           id="g-branco-da-secao-de-brian-sthefano"
         />
@@ -1279,7 +1279,7 @@
             </div>
 
             <img
-              src="./assets/images/foto-de-brian-sthefano.png"
+              src="/assets/images/foto-de-brian-sthefano.png"
               alt="Foto de Brian Sthefano"
               data-aos="fade-left"
               data-aos-offset="300"
@@ -1302,375 +1302,375 @@
         <div id="conteudo-da-secao-de-clientes">
           <div id="clientes">
             <img
-              src="./assets/images/super-market-logo.png"
+              src="/assets/images/super-market-logo.png"
               alt="Logo da Super Market"
               class="cliente"
             />
 
             <img
-              src="./assets/images/cajueira-logo.png"
+              src="/assets/images/cajueira-logo.png"
               alt="Logo da Cajueira"
               class="cliente"
             />
 
             <img
-              src="./assets/images/sana-logo.png"
+              src="/assets/images/sana-logo.png"
               alt="Logo do Sana"
               class="cliente"
             />
 
             <img
-              src="./assets/images/almeida-abreu-imobiliaria-logo.png"
+              src="/assets/images/almeida-abreu-imobiliaria-logo.png"
               alt="Logo do Almeida Abreu Imobiliária"
               class="cliente"
             />
 
             <img
-              src="./assets/images/almeida-abreu-advocacia-logo.png"
+              src="/assets/images/almeida-abreu-advocacia-logo.png"
               alt="Logo do Almeida Abreu Abreu Advogacia"
               class="cliente"
             />
 
             <img
-              src="./assets/images/team-comics-logo.png"
+              src="/assets/images/team-comics-logo.png"
               alt="Logo da Team Comics"
               class="cliente"
             />
 
             <img
-              src="./assets/images/primed-logo.png"
+              src="/assets/images/primed-logo.png"
               alt="Logo da Primed"
               class="cliente"
             />
 
             <img
-              src="./assets/images/bdi-logo.png"
+              src="/assets/images/bdi-logo.png"
               alt="Logo da BDI"
               class="cliente"
             />
 
             <img
-              src="./assets/images/cpsmb-logo.png"
+              src="/assets/images/cpsmb-logo.png"
               alt="Logo da CPSMB"
               class="cliente"
             />
 
             <img
-              src="./assets/images/olimpo-sports-logo.png"
+              src="/assets/images/olimpo-sports-logo.png"
               alt="Logo da Olimpo Sports"
               class="cliente"
             />
 
             <img
-              src="./assets/images/fcnb-logo.png"
+              src="/assets/images/fcnb-logo.png"
               alt="Logo da FCNB"
               class="cliente"
             />
 
             <img
-              src="./assets/images/expo-favela-logo.png"
+              src="/assets/images/expo-favela-logo.png"
               alt="Logo da Expo Favela"
               class="cliente"
             />
 
             <img
-              src="./assets/images/15-alirio-filho-logo.png"
+              src="/assets/images/15-alirio-filho-logo.png"
               alt="Logo da Alírio Filho 15"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-tarcisio-logo.png"
+              src="/assets/images/40-tarcisio-logo.png"
               alt="Logo do Tarcísio 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-eduardo-coelho-logo.png"
+              src="/assets/images/40-eduardo-coelho-logo.png"
               alt="Logo do Eduardo Coelho 40"
               class="cliente"
               id="cliente-40-eduardo-coelho-logo"
             />
 
             <img
-              src="./assets/images/10-ynara-mota-logo.png"
+              src="/assets/images/10-ynara-mota-logo.png"
               alt="Logo da Ynara Mota 10"
               class="cliente"
             />
 
             <img
-              src="./assets/images/11-edim-logo.png"
+              src="/assets/images/11-edim-logo.png"
               alt="Logo do Edim 11"
               class="cliente"
             />
 
             <img
-              src="./assets/images/11111-pedro-campelo-logo.png"
+              src="/assets/images/11111-pedro-campelo-logo.png"
               alt="Logo do Pedro Campelo 11111"
               class="cliente"
             />
 
             <img
-              src="./assets/images/josilda-macena-logo.png"
+              src="/assets/images/josilda-macena-logo.png"
               alt="Logo da Josilda Macena"
               class="cliente"
             />
 
             <img
-              src="./assets/images/herberlh-mota-logo.png"
+              src="/assets/images/herberlh-mota-logo.png"
               alt="Logo do Herberlh Mota"
               class="cliente"
             />
 
             <img
-              src="./assets/images/13-william-vieira-logo.png"
+              src="/assets/images/13-william-vieira-logo.png"
               alt="Logo do William Vieira 13"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-tiago-abreu-logo.png"
+              src="/assets/images/40-tiago-abreu-logo.png"
               alt="Logo do Tiago Abreu 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/15-dra-silvia-logo.png"
+              src="/assets/images/15-dra-silvia-logo.png"
               alt="Logo da Dra. Silvia 15"
               class="cliente"
             />
 
             <img
-              src="./assets/images/13-branco-logo.png"
+              src="/assets/images/13-branco-logo.png"
               alt="Logo do Branco 13"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-rony-vieira-logo.png"
+              src="/assets/images/40-rony-vieira-logo.png"
               alt="Logo do Rony Vieira 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-dr-leonildo-logo.png"
+              src="/assets/images/40-dr-leonildo-logo.png"
               alt="Logo do Dr. Leonildo 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-lucinha-logo.png"
+              src="/assets/images/40-lucinha-logo.png"
               alt="Logo da Lucinha 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/55-leo-de-doquinha-logo.png"
+              src="/assets/images/55-leo-de-doquinha-logo.png"
               alt="Logo do Léo de Doquinha 55"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-claudio-saraiva-logo.png"
+              src="/assets/images/40-claudio-saraiva-logo.png"
               alt="Logo do Claudio Saraiva 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/10-alexandre-diogenes-logo.png"
+              src="/assets/images/10-alexandre-diogenes-logo.png"
               alt="Logo do Alexandre Diogenes 10"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-chaveirinho-logo.png"
+              src="/assets/images/40-chaveirinho-logo.png"
               alt="Logo do Chaveirinho 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/super-market-logo.png"
+              src="/assets/images/super-market-logo.png"
               alt="Logo da Super Market"
               class="cliente"
             />
 
             <img
-              src="./assets/images/cajueira-logo.png"
+              src="/assets/images/cajueira-logo.png"
               alt="Logo da Cajueira"
               class="cliente"
             />
 
             <img
-              src="./assets/images/sana-logo.png"
+              src="/assets/images/sana-logo.png"
               alt="Logo do Sana"
               class="cliente"
             />
 
             <img
-              src="./assets/images/almeida-abreu-imobiliaria-logo.png"
+              src="/assets/images/almeida-abreu-imobiliaria-logo.png"
               alt="Logo do Almeida Abreu Imobiliária"
               class="cliente"
             />
 
             <img
-              src="./assets/images/almeida-abreu-advocacia-logo.png"
+              src="/assets/images/almeida-abreu-advocacia-logo.png"
               alt="Logo do Almeida Abreu Abreu Advogacia"
               class="cliente"
             />
 
             <img
-              src="./assets/images/team-comics-logo.png"
+              src="/assets/images/team-comics-logo.png"
               alt="Logo da Team Comics"
               class="cliente"
             />
 
             <img
-              src="./assets/images/primed-logo.png"
+              src="/assets/images/primed-logo.png"
               alt="Logo da Primed"
               class="cliente"
             />
 
             <img
-              src="./assets/images/bdi-logo.png"
+              src="/assets/images/bdi-logo.png"
               alt="Logo da BDI"
               class="cliente"
             />
 
             <img
-              src="./assets/images/cpsmb-logo.png"
+              src="/assets/images/cpsmb-logo.png"
               alt="Logo da CPSMB"
               class="cliente"
             />
 
             <img
-              src="./assets/images/olimpo-sports-logo.png"
+              src="/assets/images/olimpo-sports-logo.png"
               alt="Logo da Olimpo Sports"
               class="cliente"
             />
 
             <img
-              src="./assets/images/fcnb-logo.png"
+              src="/assets/images/fcnb-logo.png"
               alt="Logo da FCNB"
               class="cliente"
             />
 
             <img
-              src="./assets/images/expo-favela-logo.png"
+              src="/assets/images/expo-favela-logo.png"
               alt="Logo da Expo Favela"
               class="cliente"
             />
 
             <img
-              src="./assets/images/15-alirio-filho-logo.png"
+              src="/assets/images/15-alirio-filho-logo.png"
               alt="Logo da Alírio Filho 15"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-tarcisio-logo.png"
+              src="/assets/images/40-tarcisio-logo.png"
               alt="Logo do Tarcísio 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-eduardo-coelho-logo.png"
+              src="/assets/images/40-eduardo-coelho-logo.png"
               alt="Logo do Eduardo Coelho 40"
               class="cliente"
               id="cliente-40-eduardo-coelho-logo"
             />
 
             <img
-              src="./assets/images/10-ynara-mota-logo.png"
+              src="/assets/images/10-ynara-mota-logo.png"
               alt="Logo da Ynara Mota 10"
               class="cliente"
             />
 
             <img
-              src="./assets/images/11-edim-logo.png"
+              src="/assets/images/11-edim-logo.png"
               alt="Logo do Edim 11"
               class="cliente"
             />
 
             <img
-              src="./assets/images/11111-pedro-campelo-logo.png"
+              src="/assets/images/11111-pedro-campelo-logo.png"
               alt="Logo do Pedro Campelo 11111"
               class="cliente"
             />
 
             <img
-              src="./assets/images/josilda-macena-logo.png"
+              src="/assets/images/josilda-macena-logo.png"
               alt="Logo da Josilda Macena"
               class="cliente"
             />
 
             <img
-              src="./assets/images/herberlh-mota-logo.png"
+              src="/assets/images/herberlh-mota-logo.png"
               alt="Logo do Herberlh Mota"
               class="cliente"
             />
 
             <img
-              src="./assets/images/13-william-vieira-logo.png"
+              src="/assets/images/13-william-vieira-logo.png"
               alt="Logo do William Vieira 13"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-tiago-abreu-logo.png"
+              src="/assets/images/40-tiago-abreu-logo.png"
               alt="Logo do Tiago Abreu 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/15-dra-silvia-logo.png"
+              src="/assets/images/15-dra-silvia-logo.png"
               alt="Logo da Dra. Silvia 15"
               class="cliente"
             />
 
             <img
-              src="./assets/images/13-branco-logo.png"
+              src="/assets/images/13-branco-logo.png"
               alt="Logo do Branco 13"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-rony-vieira-logo.png"
+              src="/assets/images/40-rony-vieira-logo.png"
               alt="Logo do Rony Vieira 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-dr-leonildo-logo.png"
+              src="/assets/images/40-dr-leonildo-logo.png"
               alt="Logo do Dr. Leonildo 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-lucinha-logo.png"
+              src="/assets/images/40-lucinha-logo.png"
               alt="Logo da Lucinha 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/55-leo-de-doquinha-logo.png"
+              src="/assets/images/55-leo-de-doquinha-logo.png"
               alt="Logo do Léo de Doquinha 55"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-claudio-saraiva-logo.png"
+              src="/assets/images/40-claudio-saraiva-logo.png"
               alt="Logo do Claudio Saraiva 40"
               class="cliente"
             />
 
             <img
-              src="./assets/images/10-alexandre-diogenes-logo.png"
+              src="/assets/images/10-alexandre-diogenes-logo.png"
               alt="Logo do Alexandre Diogenes 10"
               class="cliente"
             />
 
             <img
-              src="./assets/images/40-chaveirinho-logo.png"
+              src="/assets/images/40-chaveirinho-logo.png"
               alt="Logo do Chaveirinho 40"
               class="cliente"
             />
@@ -1682,7 +1682,7 @@
         <div class="max-width">
           <div id="conteudo-da-secao-de-contato">
             <img
-              src="./assets/images/imagem-da-secao-de-contato.png"
+              src="/assets/images/imagem-da-secao-de-contato.png"
               alt="Imagem da Seção de Contato"
               data-aos="fade-right"
               data-aos-duration="1000"
@@ -1703,51 +1703,43 @@
     </main>
 
     <footer>
-      <div id="conteudo-do-footer">
-        <p>Magnix © 2025 - Todos os direitos reservados</p>
+      <p>Magnix © 2025 - Todos os direitos reservados</p>
 
-        <div id="icones-de-redes-sociais">
-          <a
-            href="https://www.facebook.com/people/Magnix/61571115934380"
-            target="_blank"
-          >
-            <ion-icon
-              name="logo-facebook"
-              class="icone-de-rede-social"
-            ></ion-icon>
-          </a>
+      <div id="icones-de-redes-sociais">
+        <a
+          href="https://www.facebook.com/people/Magnix/61571115934380"
+          target="_blank"
+        >
+          <ion-icon
+            name="logo-facebook"
+            class="icone-de-rede-social"
+          ></ion-icon>
+        </a>
 
-          <a href="https://www.instagram.com/agenciamagnix" target="_blank">
-            <ion-icon
-              name="logo-instagram"
-              class="icone-de-rede-social"
-            ></ion-icon>
-          </a>
+        <a href="https://www.instagram.com/agenciamagnix" target="_blank">
+          <ion-icon
+            name="logo-instagram"
+            class="icone-de-rede-social"
+          ></ion-icon>
+        </a>
 
-          <a href="https://www.tiktok.com/@agenciamagnix" target="_blank">
-            <ion-icon
-              name="logo-tiktok"
-              class="icone-de-rede-social"
-            ></ion-icon>
-          </a>
+        <a href="https://www.tiktok.com/@agenciamagnix" target="_blank">
+          <ion-icon name="logo-tiktok" class="icone-de-rede-social"></ion-icon>
+        </a>
 
-          <a
-            href="https://www.linkedin.com/company/agenciamagnix"
-            target="_blank"
-          >
-            <ion-icon
-              name="logo-linkedin"
-              class="icone-de-rede-social"
-            ></ion-icon>
-          </a>
+        <a
+          href="https://www.linkedin.com/company/agenciamagnix"
+          target="_blank"
+        >
+          <ion-icon
+            name="logo-linkedin"
+            class="icone-de-rede-social"
+          ></ion-icon>
+        </a>
 
-          <a href="#" target="_blank">
-            <ion-icon
-              name="logo-youtube"
-              class="icone-de-rede-social"
-            ></ion-icon>
-          </a>
-        </div>
+        <a href="#" target="_blank">
+          <ion-icon name="logo-youtube" class="icone-de-rede-social"></ion-icon>
+        </a>
       </div>
     </footer>
 
