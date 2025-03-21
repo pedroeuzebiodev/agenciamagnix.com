@@ -1,9 +1,10 @@
 @import url(../../global/global.css);
 
+@import url(./partials/cabecalho.css);
 @import url(./partials/carrossel-de-elementos-da-magnix.css);
-@import url(./partials/footer.css);
 @import url(./partials/g-branco.css);
-@import url(./partials/header.css);
+@import url(./partials/logo-da-magnix-branca.css);
+@import url(./partials/rodape.css);
 @import url(./partials/secao-de-brian-sthefano.css);
 @import url(./partials/secao-de-clientes.css);
 @import url(./partials/secao-de-contato.css);
