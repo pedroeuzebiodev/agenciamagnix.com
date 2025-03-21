@@ -13,13 +13,13 @@
     <img alt="Stargazers" src="https://img.shields.io/github/stars/pedroeuzebiodev/agenciamagnix.com?style=social" />
   </a>
 
-  <a href="https://www.agenciamagnix.com">
+  <a href="https://agenciamagnix.com">
     <img alt="Feito pelo Pedro Euzebio" src="https://img.shields.io/badge/feito%20por-Pedro%20Euzebio-4c3398" />
   </a>
 </p>
 
 <h1 align="center">
-  <img alt="Agência Magnix" title="Agência Magnix" src="./.github/capa.png" />
+  <img alt="Magnix" title="Magnix" src="./.github/capa.png" />
 </h1>
 
 <h4 align="center">
@@ -96,7 +96,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
 - **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
-- **[AOS - Animate on Scroll Library](https://michalsnik.github.io/aos/)**
+- **[PHP](https://www.php.net)**
+- **[AOS - Animate on Scroll Library](https://michalsnik.github.io/aos)**
 
 #### **Utilitários**
 
