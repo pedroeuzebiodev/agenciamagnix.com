@@ -46,7 +46,7 @@
 
 O layout da aplicação está disponível no Figma:
 
-<a href="https://www.figma.com/design/FfB9vGc6l0xiU6wdFlVVFg/Portf%C3%B3lio-da-Ag%C3%AAncia-Magnix?node-id=0-1&t=No4Bs95OYXbDjsnp-1">
+<a href="https://www.figma.com/design/FfB9vGc6l0xiU6wdFlVVFg/Website-da-Magnix-%7C-Ag%C3%AAncia-de-Marketing?node-id=0-1&t=WEMsdHxFqqevhS8h-1">
   <img alt="Made by Aryel e Gabriel" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
@@ -101,7 +101,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 #### **Utilitários**
 
-- Protótipo: **[Figma](https://www.figma.com/)** → **[Protótipo (Website da Magnix | Agência de Marketing)](https://www.figma.com/design/FfB9vGc6l0xiU6wdFlVVFg/Portf%C3%B3lio-da-Ag%C3%AAncia-Magnix?node-id=0-1&t=No4Bs95OYXbDjsnp-1)**
+- Protótipo: **[Figma](https://www.figma.com/)** → **[Protótipo (Website da Magnix | Agência de Marketing)](https://www.figma.com/design/FfB9vGc6l0xiU6wdFlVVFg/Website-da-Magnix-%7C-Ag%C3%AAncia-de-Marketing?node-id=0-1&t=WEMsdHxFqqevhS8h-1)**
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
 - Markdown: **[StackEdit](https://stackedit.io/)**, **[Markdown Emoji](https://gist.github.com/rxaviers/7360908)**
 - Commit Conventional: **[Commitlint](https://github.com/conventional-changelog/commitlint)**
